@@ -1,0 +1,86 @@
+{
+  "id": "Q014",
+  "file": "Q014.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "Q20261005-07",
+  "quote_date": "2026-10-05",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+  },
+  "contact_name": "최영호",
+  "contact_phone": null,
+  "contact_email": "sales@dyvalve.co.kr",
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "롤러체인",
+      "spec": "RS60 3m",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 74000,
+      "amount": 740000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "30205",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 11000,
+      "amount": 2200000
+    },
+    {
+      "name": "V벨트",
+      "spec": "A-45",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 6900,
+      "amount": 1380000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R2-33",
+      "qty": 200,
+      "unit": "대",
+      "unit_price": 835800,
+      "amount": 167160000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø1.2×12×50",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 4000,
+      "amount": 8000
+    },
+    {
+      "name": "PLC 모듈",
+      "spec": "DI 16점 DC24V",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 151500,
+      "amount": 1515000
+    },
+    {
+      "name": "플렉시블커플링",
+      "spec": "디스크 Ø56",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 169800,
+      "amount": 8490000
+    }
+  ],
+  "subtotal": 181493000,
+  "vat": 18149300,
+  "total": 199642300,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "excel",
+    "item_count": 7
+  }
+}

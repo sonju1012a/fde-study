@@ -1,0 +1,62 @@
+{
+  "id": "Q015",
+  "file": "Q015.pdf",
+  "supplier_name": "세진산업",
+  "business_number": null,
+  "quote_number": "Q20260810-55",
+  "quote_date": "2026-08-10",
+  "validity": {
+    "type": "relative",
+    "days": 60,
+    "text": "60일"
+  },
+  "contact_name": "강세진 대표",
+  "contact_phone": null,
+  "contact_email": "sejin1270@naver.com",
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "월말 마감 익월 말 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "에어실린더",
+      "spec": "Ø32×100ST",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 152300,
+      "amount": 1523000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "30205",
+      "qty": 1,
+      "unit": null,
+      "unit_price": 40800,
+      "amount": 40800
+    },
+    {
+      "name": "롤러체인",
+      "spec": "RS40 3m",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 32700,
+      "amount": 163500
+    },
+    {
+      "name": "인버터",
+      "spec": "5.5kW 3상 380V",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 1170400,
+      "amount": 7022400
+    }
+  ],
+  "subtotal": 8749700,
+  "vat": 874970,
+  "total": 9624670,
+  "note": null,
+  "_meta": {
+    "style": "word",
+    "item_count": 4
+  }
+}

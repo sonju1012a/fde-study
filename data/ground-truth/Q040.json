@@ -1,0 +1,38 @@
+{
+  "id": "Q040",
+  "file": "Q040.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "Q20260911-33",
+  "quote_date": "2026-09-11",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-11",
+    "text": "2026-10-11"
+  },
+  "contact_name": "최영호",
+  "contact_phone": "042-934-1180",
+  "contact_email": "sales@dyvalve.co.kr",
+  "delivery_terms": "발주 후 7일 이내",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오링",
+      "spec": "P-20 NBR",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 2400,
+      "amount": 14400
+    }
+  ],
+  "subtotal": 14400,
+  "vat": 1440,
+  "total": 15840,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "excel",
+    "item_count": 1
+  }
+}

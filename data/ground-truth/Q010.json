@@ -1,0 +1,94 @@
+{
+  "id": "Q010",
+  "file": "Q010.pdf",
+  "supplier_name": "대성베어링(주)",
+  "business_number": "124-81-33021",
+  "quote_number": "EST-2026-5271",
+  "quote_date": "2026-09-07",
+  "validity": {
+    "type": "relative",
+    "days": 60,
+    "text": "발행일로부터 60일간 유효"
+  },
+  "contact_name": "이민호 과장",
+  "contact_phone": "031-492-7710",
+  "contact_email": null,
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "포토센서",
+      "spec": "반사형 2m",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 76100,
+      "amount": 152200
+    },
+    {
+      "name": "인버터",
+      "spec": "2.2kW 3상 380V",
+      "qty": 12,
+      "unit": "대",
+      "unit_price": 905100,
+      "amount": 10861200
+    },
+    {
+      "name": "플렉시블커플링",
+      "spec": "JAW L095",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 159500,
+      "amount": 1914000
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGW25CC 1000L",
+      "qty": 10,
+      "unit": "SET",
+      "unit_price": 195500,
+      "amount": 1955000
+    },
+    {
+      "name": "PLC 모듈",
+      "spec": "DO 16점 릴레이",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 216300,
+      "amount": 6489000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "7.5kW 4P 380V",
+      "qty": 5,
+      "unit": "대",
+      "unit_price": 637700,
+      "amount": 3188500
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø1.2×12×50",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 2600,
+      "amount": 15600
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø40×150ST",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 135500,
+      "amount": 271000
+    }
+  ],
+  "subtotal": 24846500,
+  "vat": 2484650,
+  "total": 27331150,
+  "note": null,
+  "_meta": {
+    "style": "erp",
+    "item_count": 8
+  }
+}

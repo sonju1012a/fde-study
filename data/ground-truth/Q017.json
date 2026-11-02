@@ -1,0 +1,94 @@
+{
+  "id": "Q017",
+  "file": "Q017.pdf",
+  "supplier_name": "아이티씨인더스트리",
+  "business_number": "606-86-09981",
+  "quote_number": null,
+  "quote_date": "2026-10-11",
+  "validity": {
+    "type": "relative",
+    "days": 90,
+    "text": "발행일로부터 90일간 유효"
+  },
+  "contact_name": "최아이 대표",
+  "contact_phone": null,
+  "contact_email": "itc@itcind.kr",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "현금 (납품 후 30일)",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "솔레노이드밸브",
+      "spec": "3포트 1/4\" DC24V",
+      "qty": 4,
+      "unit": null,
+      "unit_price": 41500,
+      "amount": 166000
+    },
+    {
+      "name": "타이밍벨트",
+      "spec": "300L 075",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 15100,
+      "amount": 181200
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø32×100ST",
+      "qty": 2,
+      "unit": null,
+      "unit_price": 134100,
+      "amount": 268200
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "80A 10K FC",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 266500,
+      "amount": 1332500
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R1-10",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 1962100,
+      "amount": 58863000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M12 NPN NO 4mm",
+      "qty": 24,
+      "unit": null,
+      "unit_price": 35200,
+      "amount": 844800
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø63×250ST",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 132300,
+      "amount": 661500
+    },
+    {
+      "name": "볼밸브",
+      "spec": "1\" SUS316",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 57500,
+      "amount": 1725000
+    }
+  ],
+  "subtotal": 64042200,
+  "vat": 6404220,
+  "total": 70446420,
+  "note": "포장비 포함",
+  "_meta": {
+    "style": "simple",
+    "item_count": 8
+  }
+}

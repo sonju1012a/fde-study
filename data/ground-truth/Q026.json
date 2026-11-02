@@ -1,0 +1,86 @@
+{
+  "id": "Q026",
+  "file": "Q026.pdf",
+  "supplier_name": "한국모터텍 주식회사",
+  "business_number": null,
+  "quote_number": null,
+  "quote_date": "2026-09-29",
+  "validity": {
+    "type": "date",
+    "date": "2026-12-28",
+    "text": "2026/12/28"
+  },
+  "contact_name": "김수진 대리",
+  "contact_phone": "032-818-3302",
+  "contact_email": null,
+  "delivery_terms": "발주 후 7일 이내",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "유압실린더",
+      "spec": "Ø63×300ST",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 818500,
+      "amount": 818500
+    },
+    {
+      "name": "V벨트",
+      "spec": "A-52",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 9700,
+      "amount": 485000
+    },
+    {
+      "name": "기어드모터",
+      "spec": "1.5kW 1/15",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 711200,
+      "amount": 7112000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS60 17T",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 16700,
+      "amount": 835000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "A10VSO28",
+      "qty": 1,
+      "unit": "대",
+      "unit_price": 2263300,
+      "amount": 2263300
+    },
+    {
+      "name": "타이밍벨트",
+      "spec": "510XL 037",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 37000,
+      "amount": 370000
+    },
+    {
+      "name": "플렉시블커플링",
+      "spec": "JAW L100",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 110100,
+      "amount": 550500
+    }
+  ],
+  "subtotal": 12434300,
+  "vat": 1243430,
+  "total": 13677730,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "erp",
+    "item_count": 7
+  }
+}

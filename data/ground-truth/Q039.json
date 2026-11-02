@@ -1,0 +1,54 @@
+{
+  "id": "Q039",
+  "file": "Q039.pdf",
+  "supplier_name": "세진산업",
+  "business_number": "610-12-48855",
+  "quote_number": null,
+  "quote_date": "2026-10-18",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+  },
+  "contact_name": "강세진 대표",
+  "contact_phone": "051-316-9920",
+  "contact_email": "sejin1270@naver.com",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "기어드모터",
+      "spec": "1.5kW 1/15",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 565100,
+      "amount": 6781200
+    },
+    {
+      "name": "볼밸브",
+      "spec": "3/4\" SUS304",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 18000,
+      "amount": 216000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 4,
+      "unit": null,
+      "unit_price": 40000,
+      "amount": 160000
+    }
+  ],
+  "subtotal": 7157200,
+  "vat": 715720,
+  "total": 7872920,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "word",
+    "item_count": 3
+  }
+}

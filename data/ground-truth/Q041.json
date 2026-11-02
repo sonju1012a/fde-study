@@ -1,0 +1,86 @@
+{
+  "id": "Q041",
+  "file": "Q041.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "DYV-2608-713",
+  "quote_date": "2026-08-06",
+  "validity": {
+    "type": "date",
+    "date": "2026-09-05",
+    "text": "2026년 9월 5일"
+  },
+  "contact_name": "최영호",
+  "contact_phone": "042-934-1180",
+  "contact_email": "sales@dyvalve.co.kr",
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "월말 마감 익월 말 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "솔레노이드밸브",
+      "spec": "5포트 1/8\" AC220V",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 89200,
+      "amount": 17840000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 35700,
+      "amount": 1071000
+    },
+    {
+      "name": "포토센서",
+      "spec": "미러반사형 5m",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 28000,
+      "amount": 168000
+    },
+    {
+      "name": "오링",
+      "spec": "P-32 FKM",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 1900,
+      "amount": 1900
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "2.2kW 4P 220/380V",
+      "qty": 12,
+      "unit": "대",
+      "unit_price": 435100,
+      "amount": 5221200
+    },
+    {
+      "name": "롤러체인",
+      "spec": "RS50 3m",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 69200,
+      "amount": 69200
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "100A 10K FC",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 75000,
+      "amount": 2250000
+    }
+  ],
+  "subtotal": 26621300,
+  "vat": 2662130,
+  "total": 29283430,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 7
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Q008",
+  "file": "Q008.pdf",
+  "supplier_name": "유니온테크 주식회사",
+  "business_number": null,
+  "quote_number": "UNI-2609-420",
+  "quote_date": "2026-09-26",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-26",
+    "text": "2026-10-26"
+  },
+  "contact_name": "Daniel Kim",
+  "contact_phone": "02-3431-9900",
+  "contact_email": "daniel@uniontech.kr",
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "USD",
+  "fx_rate": 1392.5,
+  "items": [
+    {
+      "name": "Ball Screw",
+      "spec": "SFU2510 1000mm",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 391.19,
+      "amount": 19559.5
+    },
+    {
+      "name": "Servo Drive",
+      "spec": "750W 220V",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 1607.88,
+      "amount": 32157.6
+    },
+    {
+      "name": "Industrial Ethernet Switch",
+      "spec": "8-port unmanaged",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 1029.83,
+      "amount": 30894.9
+    },
+    {
+      "name": "Servo Motor",
+      "spec": "400W 3000rpm w/ brake",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 431.62,
+      "amount": 1726.48
+    },
+    {
+      "name": "Industrial Ethernet Switch",
+      "spec": "16-port managed",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 507.24,
+      "amount": 2028.96
+    },
+    {
+      "name": "Linear Actuator",
+      "spec": "200mm 1000N",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 722.39,
+      "amount": 36119.5
+    }
+  ],
+  "subtotal": 122486.94,
+  "vat": null,
+  "total": 122486.94,
+  "note": "VAT 별도",
+  "_meta": {
+    "style": "import",
+    "item_count": 6
+  }
+}

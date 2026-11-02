@@ -1,0 +1,70 @@
+{
+  "id": "Q003",
+  "file": "Q003.pdf",
+  "supplier_name": "(주)코리아기어",
+  "business_number": "127-81-66203",
+  "quote_number": "EST-2026-3383",
+  "quote_date": "2026-09-27",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-11",
+    "text": "2026년 10월 11일"
+  },
+  "contact_name": "문성민 차장",
+  "contact_phone": "031-499-8800",
+  "contact_email": "smmoon@koreagear.com",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "기어드모터",
+      "spec": "0.4kW 1/30",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 349800,
+      "amount": 3498000
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø50×200ST",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 131000,
+      "amount": 3144000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "3.7kW 4P 380V",
+      "qty": 1,
+      "unit": "대",
+      "unit_price": 1345300,
+      "amount": 1345300
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø50×200ST",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 764200,
+      "amount": 7642000
+    },
+    {
+      "name": "오링",
+      "spec": "P-20 NBR",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 2200,
+      "amount": 52800
+    }
+  ],
+  "subtotal": 15682100,
+  "vat": 1568210,
+  "total": 17250310,
+  "note": "포장비 포함",
+  "_meta": {
+    "style": "excel",
+    "item_count": 5
+  }
+}

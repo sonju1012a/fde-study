@@ -1,0 +1,38 @@
+{
+  "id": "Q004",
+  "file": "Q004.pdf",
+  "supplier_name": "(주)태양정밀",
+  "business_number": "134-86-20917",
+  "quote_number": "EST-2026-9957",
+  "quote_date": "2026-09-11",
+  "validity": {
+    "type": "date",
+    "date": "2026-12-10",
+    "text": "2026-12-10"
+  },
+  "contact_name": "윤미래 주임",
+  "contact_phone": "031-371-5540",
+  "contact_email": "mr.yoon@taeyangpm.co.kr",
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "에어실린더",
+      "spec": "Ø32×100ST",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 140100,
+      "amount": 140100
+    }
+  ],
+  "subtotal": 140100,
+  "vat": 14010,
+  "total": 154110,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 1
+  }
+}

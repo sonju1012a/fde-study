@@ -1,0 +1,38 @@
+{
+  "id": "Q048",
+  "file": "Q048.pdf",
+  "supplier_name": "서울센서시스템",
+  "business_number": "105-87-71123",
+  "quote_number": "SEO-2608-654",
+  "quote_date": "2026-08-24",
+  "validity": {
+    "type": "relative",
+    "days": 90,
+    "text": "견적일로부터 90일"
+  },
+  "contact_name": "박찬호 팀장",
+  "contact_phone": "02-2026-4410",
+  "contact_email": "chpark@seoulsensor.kr",
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 28600,
+      "amount": 5720000
+    }
+  ],
+  "subtotal": 5720000,
+  "vat": 572000,
+  "total": 6292000,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "erp",
+    "item_count": 1
+  }
+}

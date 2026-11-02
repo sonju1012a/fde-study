@@ -1,0 +1,86 @@
+{
+  "id": "Q021",
+  "file": "Q021.pdf",
+  "supplier_name": "아이티씨인더스트리",
+  "business_number": "606-86-09981",
+  "quote_number": "Q20261017-25",
+  "quote_date": "2026-10-17",
+  "validity": {
+    "type": "date",
+    "date": "2026-11-16",
+    "text": "2026-11-16"
+  },
+  "contact_name": "최아이 대표",
+  "contact_phone": "051-831-2290",
+  "contact_email": null,
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "근접센서",
+      "spec": "M18 PNP NO 8mm",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 43500,
+      "amount": 217500
+    },
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 38500,
+      "amount": 462000
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6206ZZ",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 11400,
+      "amount": 68400
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø32×100ST",
+      "qty": 1,
+      "unit": null,
+      "unit_price": 162800,
+      "amount": 162800
+    },
+    {
+      "name": "V벨트",
+      "spec": "B-60",
+      "qty": 1,
+      "unit": null,
+      "unit_price": 10000,
+      "amount": 10000
+    },
+    {
+      "name": "인버터",
+      "spec": "5.5kW 3상 380V",
+      "qty": 2,
+      "unit": null,
+      "unit_price": 1004900,
+      "amount": 2009800
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 106100,
+      "amount": 3183000
+    }
+  ],
+  "subtotal": 6113500,
+  "vat": 611350,
+  "total": 6724850,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "simple",
+    "item_count": 7
+  }
+}

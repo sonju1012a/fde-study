@@ -1,0 +1,70 @@
+{
+  "id": "Q013",
+  "file": "Q013.pdf",
+  "supplier_name": "서울센서시스템",
+  "business_number": "105-87-71123",
+  "quote_number": "Q20260902-67",
+  "quote_date": "2026-09-02",
+  "validity": {
+    "type": "relative",
+    "days": 90,
+    "text": "견적일로부터 90일"
+  },
+  "contact_name": "박찬호 팀장",
+  "contact_phone": "02-2026-4410",
+  "contact_email": "chpark@seoulsensor.kr",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "플렉시블커플링",
+      "spec": "JAW L095",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 57000,
+      "amount": 570000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 3600,
+      "amount": 43200
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 114600,
+      "amount": 687600
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø32×100ST",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 82600,
+      "amount": 1982400
+    },
+    {
+      "name": "근접센서",
+      "spec": "M18 PNP NO 8mm",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 26400,
+      "amount": 528000
+    }
+  ],
+  "subtotal": 3811200,
+  "vat": 381120,
+  "total": 4192320,
+  "note": "운송비 별도 (착불)",
+  "_meta": {
+    "style": "erp",
+    "item_count": 5
+  }
+}

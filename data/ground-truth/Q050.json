@@ -1,0 +1,142 @@
+{
+  "id": "Q050",
+  "file": "Q050.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "Q20261007-35",
+  "quote_date": "2026-10-07",
+  "validity": {
+    "type": "date",
+    "date": "2026-11-06",
+    "text": "2026년 11월 6일"
+  },
+  "contact_name": "최영호",
+  "contact_phone": "042-934-1180",
+  "contact_email": null,
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼베어링",
+      "spec": "6205-2Z",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 16700,
+      "amount": 501000
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø63×300ST",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 263900,
+      "amount": 26390000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M12 NPN NO 4mm",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 21500,
+      "amount": 43000
+    },
+    {
+      "name": "롤러체인",
+      "spec": "RS50 3m",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 70200,
+      "amount": 3510000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "7.5kW 4P 380V",
+      "qty": 20,
+      "unit": "대",
+      "unit_price": 323700,
+      "amount": 6474000
+    },
+    {
+      "name": "기어드모터",
+      "spec": "0.75kW 1/20",
+      "qty": 100,
+      "unit": "대",
+      "unit_price": 546800,
+      "amount": 54680000
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "50A 10K FC",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 119100,
+      "amount": 2382000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 4200,
+      "amount": 210000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "2.2kW 4P 220/380V",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 1065500,
+      "amount": 10655000
+    },
+    {
+      "name": "오일씰",
+      "spec": "TC 35×52×8",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 5100,
+      "amount": 61200
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø50×200ST",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 163700,
+      "amount": 982200
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "32210",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 33000,
+      "amount": 165000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS50 20T",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 51600,
+      "amount": 103200
+    },
+    {
+      "name": "오링",
+      "spec": "P-32 FKM",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 1600,
+      "amount": 16000
+    }
+  ],
+  "subtotal": 106172600,
+  "vat": 10617260,
+  "total": 116789860,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 14
+  }
+}

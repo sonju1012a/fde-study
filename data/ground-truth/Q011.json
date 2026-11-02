@@ -1,0 +1,54 @@
+{
+  "id": "Q011",
+  "file": "Q011.pdf",
+  "supplier_name": "(주)코리아기어",
+  "business_number": "127-81-66203",
+  "quote_number": "Q20261014-28",
+  "quote_date": "2026-10-14",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "30일"
+  },
+  "contact_name": "문성민 차장",
+  "contact_phone": "031-499-8800",
+  "contact_email": "smmoon@koreagear.com",
+  "delivery_terms": "발주 후 7일 이내",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼베어링",
+      "spec": "6002ZZ",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 4200,
+      "amount": 50400
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R1-10",
+      "qty": 1,
+      "unit": "대",
+      "unit_price": 1959900,
+      "amount": 1959900
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 3800,
+      "amount": 91200
+    }
+  ],
+  "subtotal": 2101500,
+  "vat": 210150,
+  "total": 2311650,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 3
+  }
+}

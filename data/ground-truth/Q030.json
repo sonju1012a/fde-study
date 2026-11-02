@@ -1,0 +1,54 @@
+{
+  "id": "Q030",
+  "file": "Q030.pdf",
+  "supplier_name": "(주)제일전기산업",
+  "business_number": "113-81-54420",
+  "quote_number": null,
+  "quote_date": "2026-07-23",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-21",
+    "text": "2026-10-21"
+  },
+  "contact_name": "이정민 과장",
+  "contact_phone": null,
+  "contact_email": "jmlee@jeilelec.co.kr",
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "스프로킷",
+      "spec": "RS40 15T",
+      "qty": 100,
+      "unit": null,
+      "unit_price": 23700,
+      "amount": 2370000
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø50×200ST",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 235300,
+      "amount": 1411800
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "30205",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 57100,
+      "amount": 342600
+    }
+  ],
+  "subtotal": 4124400,
+  "vat": 412440,
+  "total": 4536840,
+  "note": "VAT 별도",
+  "_meta": {
+    "style": "word",
+    "item_count": 3
+  }
+}

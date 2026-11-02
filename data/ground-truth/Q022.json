@@ -1,0 +1,86 @@
+{
+  "id": "Q022",
+  "file": "Q022.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "EST-2026-5737",
+  "quote_date": "2026-09-12",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "30일"
+  },
+  "contact_name": "최영호",
+  "contact_phone": "042-934-1180",
+  "contact_email": null,
+  "delivery_terms": "발주 후 7일 이내",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "유압펌프",
+      "spec": "PV2R2-33",
+      "qty": 1,
+      "unit": "대",
+      "unit_price": 939600,
+      "amount": 939600
+    },
+    {
+      "name": "포토센서",
+      "spec": "미러반사형 5m",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 70000,
+      "amount": 350000
+    },
+    {
+      "name": "오링",
+      "spec": "P-32 FKM",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 900,
+      "amount": 900
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGH15CA 500L",
+      "qty": 10,
+      "unit": "SET",
+      "unit_price": 194400,
+      "amount": 1944000
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "5포트 1/8\" AC220V",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 90800,
+      "amount": 9080000
+    },
+    {
+      "name": "플렉시블커플링",
+      "spec": "JAW L100",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 48500,
+      "amount": 4850000
+    },
+    {
+      "name": "포토센서",
+      "spec": "투과형 10m",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 56700,
+      "amount": 567000
+    }
+  ],
+  "subtotal": 17731500,
+  "vat": 1773150,
+  "total": 19504650,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "excel",
+    "item_count": 7
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Q037",
+  "file": "Q037.pdf",
+  "supplier_name": "서울센서시스템",
+  "business_number": "105-87-71123",
+  "quote_number": "EST-2026-9968",
+  "quote_date": "2026-10-16",
+  "validity": {
+    "type": "relative",
+    "days": 14,
+    "text": "14일"
+  },
+  "contact_name": "박찬호 팀장",
+  "contact_phone": null,
+  "contact_email": "chpark@seoulsensor.kr",
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "현금 (납품 후 30일)",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "리니어가이드",
+      "spec": "HGH20CA 800L",
+      "qty": 5,
+      "unit": "SET",
+      "unit_price": 272600,
+      "amount": 1363000
+    }
+  ],
+  "subtotal": 1363000,
+  "vat": 136300,
+  "total": 1499300,
+  "note": "운송비 별도 (착불)",
+  "_meta": {
+    "style": "erp",
+    "item_count": 1
+  }
+}

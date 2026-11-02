@@ -1,0 +1,54 @@
+{
+  "id": "Q012",
+  "file": "Q012.pdf",
+  "supplier_name": "(주)광명스프링",
+  "business_number": "140-81-70562",
+  "quote_number": "Q20260930-33",
+  "quote_date": "2026-09-30",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-30",
+    "text": "2026.10.30"
+  },
+  "contact_name": "배수지 주임",
+  "contact_phone": "02-2688-1177",
+  "contact_email": "sjbae@kmspring.co.kr",
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오링",
+      "spec": "P-32 FKM",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 1500,
+      "amount": 3000
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6308-2RS",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 5100,
+      "amount": 51000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS50 20T",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 29000,
+      "amount": 870000
+    }
+  ],
+  "subtotal": 924000,
+  "vat": 92400,
+  "total": 1016400,
+  "note": "VAT 별도",
+  "_meta": {
+    "style": "excel",
+    "item_count": 3
+  }
+}

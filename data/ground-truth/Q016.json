@@ -1,0 +1,54 @@
+{
+  "id": "Q016",
+  "file": "Q016.pdf",
+  "supplier_name": "한양공압(주)",
+  "business_number": "109-81-20335",
+  "quote_number": "Q20260906-82",
+  "quote_date": "2026-09-06",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-06",
+    "text": "2026.10.06"
+  },
+  "contact_name": "김하늘 사원",
+  "contact_phone": "02-468-7733",
+  "contact_email": "skykim@hypneu.co.kr",
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오일씰",
+      "spec": "TC 35×52×8",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 4700,
+      "amount": 141000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS50 20T",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 15800,
+      "amount": 94800
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "3포트 1/4\" DC24V",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 51400,
+      "amount": 102800
+    }
+  ],
+  "subtotal": 338600,
+  "vat": 33860,
+  "total": 372460,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "erp",
+    "item_count": 3
+  }
+}

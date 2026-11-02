@@ -1,0 +1,78 @@
+{
+  "id": "Q047",
+  "file": "Q047.pdf",
+  "supplier_name": "(주)광명스프링",
+  "business_number": "140-81-70562",
+  "quote_number": "EST-2026-9901",
+  "quote_date": "2026-08-27",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "견적일로부터 30일"
+  },
+  "contact_name": "배수지 주임",
+  "contact_phone": "02-2688-1177",
+  "contact_email": "sjbae@kmspring.co.kr",
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼밸브",
+      "spec": "1/2\" SUS304",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 84500,
+      "amount": 4225000
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "3포트 1/4\" DC24V",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 77400,
+      "amount": 1857600
+    },
+    {
+      "name": "근접센서",
+      "spec": "M18 PNP NO 8mm",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 36600,
+      "amount": 732000
+    },
+    {
+      "name": "포토센서",
+      "spec": "투과형 10m",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 42800,
+      "amount": 1027200
+    },
+    {
+      "name": "V벨트",
+      "spec": "A-45",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 9900,
+      "amount": 198000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 17800,
+      "amount": 356000
+    }
+  ],
+  "subtotal": 8395800,
+  "vat": 839580,
+  "total": 9235380,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 6
+  }
+}

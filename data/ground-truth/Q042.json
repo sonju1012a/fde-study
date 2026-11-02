@@ -1,0 +1,38 @@
+{
+  "id": "Q042",
+  "file": "Q042.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "Q20260902-55",
+  "quote_date": "2026-09-02",
+  "validity": {
+    "type": "date",
+    "date": "2026-11-01",
+    "text": "2026/11/01"
+  },
+  "contact_name": "최영호",
+  "contact_phone": null,
+  "contact_email": "sales@dyvalve.co.kr",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼베어링",
+      "spec": "6002ZZ",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 5000,
+      "amount": 500000
+    }
+  ],
+  "subtotal": 500000,
+  "vat": 50000,
+  "total": 550000,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 1
+  }
+}

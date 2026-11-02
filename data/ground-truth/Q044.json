@@ -1,0 +1,62 @@
+{
+  "id": "Q044",
+  "file": "Q044.pdf",
+  "supplier_name": "서울센서시스템",
+  "business_number": "105-87-71123",
+  "quote_number": "Q20261008-95",
+  "quote_date": "2026-10-08",
+  "validity": {
+    "type": "relative",
+    "days": 60,
+    "text": "견적일로부터 60일"
+  },
+  "contact_name": "박찬호 팀장",
+  "contact_phone": "02-2026-4410",
+  "contact_email": "chpark@seoulsensor.kr",
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "현금 (납품 후 30일)",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "유압펌프",
+      "spec": "PV2R1-10",
+      "qty": 24,
+      "unit": "대",
+      "unit_price": 2683600,
+      "amount": 64406400
+    },
+    {
+      "name": "유압펌프",
+      "spec": "A10VSO28",
+      "qty": 2,
+      "unit": "대",
+      "unit_price": 2146600,
+      "amount": 4293200
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 3300,
+      "amount": 16500
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "7.5kW 4P 380V",
+      "qty": 30,
+      "unit": "대",
+      "unit_price": 274000,
+      "amount": 8220000
+    }
+  ],
+  "subtotal": 76936100,
+  "vat": 7693610,
+  "total": 84629710,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "erp",
+    "item_count": 4
+  }
+}

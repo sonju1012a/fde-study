@@ -1,0 +1,54 @@
+{
+  "id": "Q045",
+  "file": "Q045.pdf",
+  "supplier_name": "대성베어링(주)",
+  "business_number": null,
+  "quote_number": "DSB-2609-464",
+  "quote_date": "2026-09-21",
+  "validity": {
+    "type": "date",
+    "date": "2026-12-20",
+    "text": "2026-12-20"
+  },
+  "contact_name": "이민호 과장",
+  "contact_phone": "031-492-7710",
+  "contact_email": "mhlee@dsbearing.co.kr",
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "리니어가이드",
+      "spec": "HGW25CC 1000L",
+      "qty": 6,
+      "unit": "SET",
+      "unit_price": 308200,
+      "amount": 1849200
+    },
+    {
+      "name": "기어드모터",
+      "spec": "0.75kW 1/20",
+      "qty": 6,
+      "unit": "대",
+      "unit_price": 429600,
+      "amount": 2577600
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "3.7kW 4P 380V",
+      "qty": 30,
+      "unit": "대",
+      "unit_price": 591400,
+      "amount": 17742000
+    }
+  ],
+  "subtotal": 22168800,
+  "vat": 2216880,
+  "total": 24385680,
+  "note": "VAT 별도",
+  "_meta": {
+    "style": "erp",
+    "item_count": 3
+  }
+}

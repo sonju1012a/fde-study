@@ -1,0 +1,38 @@
+{
+  "id": "Q049",
+  "file": "Q049.pdf",
+  "supplier_name": "미래벨트상사",
+  "business_number": null,
+  "quote_number": "Q20261019-98",
+  "quote_date": "2026-10-19",
+  "validity": {
+    "type": "date",
+    "date": "2026-11-18",
+    "text": "2026-11-18"
+  },
+  "contact_name": "조미래",
+  "contact_phone": "032-672-1199",
+  "contact_email": null,
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "기어드모터",
+      "spec": "0.75kW 1/20",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 748500,
+      "amount": 7485000
+    }
+  ],
+  "subtotal": 7485000,
+  "vat": 748500,
+  "total": 8233500,
+  "note": "포장비 포함",
+  "_meta": {
+    "style": "simple",
+    "item_count": 1
+  }
+}

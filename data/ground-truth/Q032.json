@@ -1,0 +1,62 @@
+{
+  "id": "Q032",
+  "file": "Q032.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "EST-2026-1561",
+  "quote_date": "2026-10-05",
+  "validity": {
+    "type": "relative",
+    "days": 60,
+    "text": "견적일로부터 60일"
+  },
+  "contact_name": "최영호",
+  "contact_phone": "042-934-1180",
+  "contact_email": null,
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오링",
+      "spec": "G-45 NBR",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 2300,
+      "amount": 13800
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS40 15T",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 60700,
+      "amount": 1456800
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6002ZZ",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 11800,
+      "amount": 2360000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "2.2kW 4P 220/380V",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 409300,
+      "amount": 4093000
+    }
+  ],
+  "subtotal": 7923600,
+  "vat": 792360,
+  "total": 8715960,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 4
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "Q046",
+  "file": "Q046.pdf",
+  "supplier_name": "(주)신일유압",
+  "business_number": "503-81-44209",
+  "quote_number": "EST-2026-5701",
+  "quote_date": "2026-08-10",
+  "validity": {
+    "type": "date",
+    "date": "2026-08-24",
+    "text": "2026/08/24"
+  },
+  "contact_name": "신재훈 부장",
+  "contact_phone": "053-592-3301",
+  "contact_email": "jhshin@shinilhyd.co.kr",
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오일씰",
+      "spec": "TC 25×40×7",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 4800,
+      "amount": 144000
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 84100,
+      "amount": 2523000
+    },
+    {
+      "name": "기어드모터",
+      "spec": "1.5kW 1/15",
+      "qty": 24,
+      "unit": null,
+      "unit_price": 576400,
+      "amount": 13833600
+    },
+    {
+      "name": "롤러체인",
+      "spec": "RS50 3m",
+      "qty": 100,
+      "unit": null,
+      "unit_price": 50600,
+      "amount": 5060000
+    },
+    {
+      "name": "볼밸브",
+      "spec": "1\" SUS316",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 74700,
+      "amount": 896400
+    },
+    {
+      "name": "오링",
+      "spec": "G-45 NBR",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 1900,
+      "amount": 22800
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø50×200ST",
+      "qty": 2,
+      "unit": null,
+      "unit_price": 800300,
+      "amount": 1600600
+    }
+  ],
+  "subtotal": 24080400,
+  "vat": 2408040,
+  "total": 26488440,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "word",
+    "item_count": 7
+  }
+}

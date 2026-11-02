@@ -1,0 +1,70 @@
+{
+  "id": "Q009",
+  "file": "Q009.pdf",
+  "supplier_name": "글로벌파츠코리아(주)",
+  "business_number": "211-87-55310",
+  "quote_number": null,
+  "quote_date": "2026-10-05",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "견적일로부터 30일"
+  },
+  "contact_name": "Jiwon Han",
+  "contact_phone": "02-561-7000",
+  "contact_email": "jhan@globalpartskr.com",
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "월말 마감 익월 말 현금",
+  "currency": "USD",
+  "fx_rate": 1385.2,
+  "items": [
+    {
+      "name": "Servo Drive",
+      "spec": "400W 220V",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 1408.21,
+      "amount": 140821
+    },
+    {
+      "name": "Pressure Transmitter",
+      "spec": "0-25bar 4-20mA",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 471.36,
+      "amount": 4713.6
+    },
+    {
+      "name": "Pressure Transmitter",
+      "spec": "0-100bar 4-20mA",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 312.82,
+      "amount": 1876.92
+    },
+    {
+      "name": "Encoder",
+      "spec": "1024ppr Incremental",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 605.45,
+      "amount": 60545
+    },
+    {
+      "name": "Ball Screw",
+      "spec": "SFU1605 600mm",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 242.8,
+      "amount": 12140
+    }
+  ],
+  "subtotal": 220096.52,
+  "vat": null,
+  "total": 220096.52,
+  "note": "포장비 포함",
+  "_meta": {
+    "style": "import",
+    "item_count": 5
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Q018",
+  "file": "Q018.pdf",
+  "supplier_name": "(주)코리아기어",
+  "business_number": "127-81-66203",
+  "quote_number": "EST-2026-9518",
+  "quote_date": "2026-08-28",
+  "validity": {
+    "type": "relative",
+    "days": 14,
+    "text": "견적일로부터 14일"
+  },
+  "contact_name": "문성민 차장",
+  "contact_phone": "031-499-8800",
+  "contact_email": "smmoon@koreagear.com",
+  "delivery_terms": "발주 후 3~4주",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "압축스프링",
+      "spec": "Ø3.0×30×100",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 3200,
+      "amount": 640000
+    }
+  ],
+  "subtotal": 640000,
+  "vat": 64000,
+  "total": 704000,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 1
+  }
+}

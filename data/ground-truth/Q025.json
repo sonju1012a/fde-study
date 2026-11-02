@@ -1,0 +1,54 @@
+{
+  "id": "Q025",
+  "file": "Q025.pdf",
+  "supplier_name": "(주)코리아기어",
+  "business_number": "127-81-66203",
+  "quote_number": null,
+  "quote_date": "2026-07-22",
+  "validity": {
+    "type": "date",
+    "date": "2026-08-21",
+    "text": "2026/08/21"
+  },
+  "contact_name": "문성민 차장",
+  "contact_phone": "031-499-8800",
+  "contact_email": null,
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오링",
+      "spec": "P-32 FKM",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 1000,
+      "amount": 2000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 1100,
+      "amount": 2200
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 113000,
+      "amount": 22600000
+    }
+  ],
+  "subtotal": 22604200,
+  "vat": 2260420,
+  "total": 24864620,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "excel",
+    "item_count": 3
+  }
+}

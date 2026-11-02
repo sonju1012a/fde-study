@@ -1,0 +1,46 @@
+{
+  "id": "Q005",
+  "file": "Q005.pdf",
+  "supplier_name": "한국모터텍 주식회사",
+  "business_number": "220-88-10457",
+  "quote_number": "KMO-2609-942",
+  "quote_date": "2026-09-12",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+  },
+  "contact_name": "김수진 대리",
+  "contact_phone": "032-818-3302",
+  "contact_email": "sjkim@kmotortech.com",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 33000,
+      "amount": 198000
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø50×200ST",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 748900,
+      "amount": 2995600
+    }
+  ],
+  "subtotal": 3193600,
+  "vat": 319360,
+  "total": 3512960,
+  "note": "VAT 별도",
+  "_meta": {
+    "style": "erp",
+    "item_count": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Q006",
+  "file": "Q006.pdf",
+  "supplier_name": "경인펌프산업",
+  "business_number": "137-19-32245",
+  "quote_number": "EST-2026-6542",
+  "quote_date": "2026-09-19",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+  },
+  "contact_name": "경인수",
+  "contact_phone": null,
+  "contact_email": "kipump@daum.net",
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "오일씰",
+      "spec": "TC 25×40×7",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 4400,
+      "amount": 22000
+    }
+  ],
+  "subtotal": 22000,
+  "vat": 2200,
+  "total": 24200,
+  "note": "포장비 포함",
+  "_meta": {
+    "style": "simple",
+    "item_count": 1
+  }
+}

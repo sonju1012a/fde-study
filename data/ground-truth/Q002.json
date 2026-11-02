@@ -1,0 +1,110 @@
+{
+  "id": "Q002",
+  "file": "Q002.pdf",
+  "supplier_name": "(주)에스엠커플링",
+  "business_number": null,
+  "quote_number": "SMC-2610-496",
+  "quote_date": "2026-10-09",
+  "validity": {
+    "type": "date",
+    "date": "2026-11-08",
+    "text": "2026년 11월 8일"
+  },
+  "contact_name": "송민호 이사",
+  "contact_phone": "031-424-5520",
+  "contact_email": "mhsong@smcoupling.co.kr",
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "선금 50% / 잔금 납품 후 30일",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼밸브",
+      "spec": "2\" 황동",
+      "qty": 200,
+      "unit": null,
+      "unit_price": 94200,
+      "amount": 18840000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R2-33",
+      "qty": 1,
+      "unit": null,
+      "unit_price": 1173500,
+      "amount": 1173500
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "5포트 1/8\" AC220V",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 101300,
+      "amount": 1013000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "2.2kW 4P 220/380V",
+      "qty": 1,
+      "unit": null,
+      "unit_price": 255300,
+      "amount": 255300
+    },
+    {
+      "name": "PLC 모듈",
+      "spec": "AI 4ch",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 347300,
+      "amount": 3473000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M12 NPN NO 4mm",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 42000,
+      "amount": 210000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 2700,
+      "amount": 27000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "0.75kW 4P 220V",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 1430800,
+      "amount": 14308000
+    },
+    {
+      "name": "V벨트",
+      "spec": "A-52",
+      "qty": 4,
+      "unit": null,
+      "unit_price": 4900,
+      "amount": 19600
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "7.5kW 4P 380V",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 1196200,
+      "amount": 11962000
+    }
+  ],
+  "subtotal": 51281400,
+  "vat": 5128140,
+  "total": 56409540,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "word",
+    "item_count": 10
+  }
+}

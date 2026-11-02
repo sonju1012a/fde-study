@@ -1,0 +1,102 @@
+{
+  "id": "Q027",
+  "file": "Q027.pdf",
+  "supplier_name": "경인펌프산업",
+  "business_number": null,
+  "quote_number": "DAU-2609-393",
+  "quote_date": "2026-09-10",
+  "validity": {
+    "type": "date",
+    "date": "2026-09-24",
+    "text": "2026년 9월 24일"
+  },
+  "contact_name": "경인수",
+  "contact_phone": "031-996-7781",
+  "contact_email": null,
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "3상 유도전동기",
+      "spec": "2.2kW 4P 220/380V",
+      "qty": 100,
+      "unit": null,
+      "unit_price": 1301300,
+      "amount": 130130000
+    },
+    {
+      "name": "인버터",
+      "spec": "0.75kW 단상 220V",
+      "qty": 2,
+      "unit": null,
+      "unit_price": 704000,
+      "amount": 1408000
+    },
+    {
+      "name": "오일씰",
+      "spec": "TC 45×62×8",
+      "qty": 50,
+      "unit": null,
+      "unit_price": 5600,
+      "amount": 280000
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGH20CA 800L",
+      "qty": 100,
+      "unit": null,
+      "unit_price": 165900,
+      "amount": 16590000
+    },
+    {
+      "name": "롤러체인",
+      "spec": "RS50 3m",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 37600,
+      "amount": 1128000
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6002ZZ",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 8900,
+      "amount": 106800
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "0.75kW 4P 220V",
+      "qty": 100,
+      "unit": null,
+      "unit_price": 721400,
+      "amount": 72140000
+    },
+    {
+      "name": "플렉시블커플링",
+      "spec": "JAW L095",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 170100,
+      "amount": 1020600
+    },
+    {
+      "name": "근접센서",
+      "spec": "M8 NPN 2mm",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 38800,
+      "amount": 388000
+    }
+  ],
+  "subtotal": 223191400,
+  "vat": 22319140,
+  "total": 245510540,
+  "note": "포장비 포함",
+  "_meta": {
+    "style": "simple",
+    "item_count": 9
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Q001",
+  "file": "Q001.pdf",
+  "supplier_name": "대성베어링(주)",
+  "business_number": "124-81-33021",
+  "quote_number": null,
+  "quote_date": "2026-09-30",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-30",
+    "text": "2026-10-30"
+  },
+  "contact_name": "이민호 과장",
+  "contact_phone": "031-492-7710",
+  "contact_email": "mhlee@dsbearing.co.kr",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼밸브",
+      "spec": "3/4\" SUS304",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 71800,
+      "amount": 3590000
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGH20CA 800L",
+      "qty": 12,
+      "unit": "SET",
+      "unit_price": 217200,
+      "amount": 2606400
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGH15CA 500L",
+      "qty": 24,
+      "unit": "SET",
+      "unit_price": 276000,
+      "amount": 6624000
+    },
+    {
+      "name": "오링",
+      "spec": "G-45 NBR",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 1100,
+      "amount": 110000
+    }
+  ],
+  "subtotal": 12930400,
+  "vat": 1293040,
+  "total": 14223440,
+  "note": null,
+  "_meta": {
+    "style": "erp",
+    "item_count": 4
+  }
+}

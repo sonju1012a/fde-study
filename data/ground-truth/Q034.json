@@ -1,0 +1,94 @@
+{
+  "id": "Q034",
+  "file": "Q034.pdf",
+  "supplier_name": "한국모터텍 주식회사",
+  "business_number": "220-88-10457",
+  "quote_number": "KMO-2608-272",
+  "quote_date": "2026-08-20",
+  "validity": {
+    "type": "date",
+    "date": "2026-09-19",
+    "text": "2026.09.19"
+  },
+  "contact_name": "김수진 대리",
+  "contact_phone": "032-818-3302",
+  "contact_email": "sjkim@kmotortech.com",
+  "delivery_terms": "발주 후 7일 이내",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 63500,
+      "amount": 127000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø2.0×20×80",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 1200,
+      "amount": 4800
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "3.7kW 4P 380V",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 284100,
+      "amount": 2841000
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGH15CA 500L",
+      "qty": 10,
+      "unit": "SET",
+      "unit_price": 235100,
+      "amount": 2351000
+    },
+    {
+      "name": "인버터",
+      "spec": "0.75kW 단상 220V",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 1179800,
+      "amount": 11798000
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø80×400ST",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 741800,
+      "amount": 3709000
+    },
+    {
+      "name": "PLC 모듈",
+      "spec": "DI 16점 DC24V",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 327500,
+      "amount": 9825000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø1.2×12×50",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 3700,
+      "amount": 88800
+    }
+  ],
+  "subtotal": 30744600,
+  "vat": 3074460,
+  "total": 33819060,
+  "note": "운송비 별도 (착불)",
+  "_meta": {
+    "style": "erp",
+    "item_count": 8
+  }
+}

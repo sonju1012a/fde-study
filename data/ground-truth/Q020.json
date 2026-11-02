@@ -1,0 +1,118 @@
+{
+  "id": "Q020",
+  "file": "Q020.pdf",
+  "supplier_name": "대성베어링(주)",
+  "business_number": null,
+  "quote_number": "Q20260930-75",
+  "quote_date": "2026-09-30",
+  "validity": {
+    "type": "relative",
+    "days": 14,
+    "text": "발행일로부터 14일간 유효"
+  },
+  "contact_name": "이민호 과장",
+  "contact_phone": null,
+  "contact_email": "mhlee@dsbearing.co.kr",
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "월말 마감 익월 말 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "인버터",
+      "spec": "5.5kW 3상 380V",
+      "qty": 4,
+      "unit": "대",
+      "unit_price": 858200,
+      "amount": 3432800
+    },
+    {
+      "name": "타이밍벨트",
+      "spec": "420H 100",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 31500,
+      "amount": 756000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R1-10",
+      "qty": 2,
+      "unit": "대",
+      "unit_price": 1554000,
+      "amount": 3108000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "32012",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 58800,
+      "amount": 58800
+    },
+    {
+      "name": "타이밍벨트",
+      "spec": "510XL 037",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 40000,
+      "amount": 160000
+    },
+    {
+      "name": "플렉시블커플링",
+      "spec": "JAW L095",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 159000,
+      "amount": 795000
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 111500,
+      "amount": 111500
+    },
+    {
+      "name": "볼밸브",
+      "spec": "2\" 황동",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 71600,
+      "amount": 358000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M12 NPN NO 4mm",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 40800,
+      "amount": 1224000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "30205",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 26100,
+      "amount": 5220000
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6205ZZ",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 6500,
+      "amount": 6500
+    }
+  ],
+  "subtotal": 15230600,
+  "vat": 1523060,
+  "total": 16753660,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "erp",
+    "item_count": 11
+  }
+}

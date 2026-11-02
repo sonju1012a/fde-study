@@ -1,0 +1,54 @@
+{
+  "id": "Q038",
+  "file": "Q038.pdf",
+  "supplier_name": "(주)제일전기산업",
+  "business_number": "113-81-54420",
+  "quote_number": "JEI-2608-468",
+  "quote_date": "2026-08-05",
+  "validity": {
+    "type": "date",
+    "date": "2026-09-04",
+    "text": "2026/09/04"
+  },
+  "contact_name": "이정민 과장",
+  "contact_phone": "02-857-6600",
+  "contact_email": "jmlee@jeilelec.co.kr",
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "플렉시블커플링",
+      "spec": "디스크 Ø56",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 80900,
+      "amount": 2427000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "32012",
+      "qty": 2,
+      "unit": null,
+      "unit_price": 52900,
+      "amount": 105800
+    },
+    {
+      "name": "PLC 모듈",
+      "spec": "AI 4ch",
+      "qty": 50,
+      "unit": null,
+      "unit_price": 310800,
+      "amount": 15540000
+    }
+  ],
+  "subtotal": 18072800,
+  "vat": 1807280,
+  "total": 19880080,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "word",
+    "item_count": 3
+  }
+}

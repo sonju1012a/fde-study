@@ -1,0 +1,54 @@
+{
+  "id": "Q036",
+  "file": "Q036.pdf",
+  "supplier_name": "대성베어링(주)",
+  "business_number": "124-81-33021",
+  "quote_number": "DSB-2608-239",
+  "quote_date": "2026-08-12",
+  "validity": {
+    "type": "date",
+    "date": "2026-09-11",
+    "text": "2026-09-11"
+  },
+  "contact_name": "이민호 과장",
+  "contact_phone": "031-492-7710",
+  "contact_email": null,
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "스프로킷",
+      "spec": "RS60 17T",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 25800,
+      "amount": 258000
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "3.7kW 4P 380V",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 963000,
+      "amount": 9630000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "30205",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 46600,
+      "amount": 93200
+    }
+  ],
+  "subtotal": 9981200,
+  "vat": 998120,
+  "total": 10979320,
+  "note": null,
+  "_meta": {
+    "style": "erp",
+    "item_count": 3
+  }
+}

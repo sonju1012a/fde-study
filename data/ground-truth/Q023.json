@@ -1,0 +1,54 @@
+{
+  "id": "Q023",
+  "file": "Q023.pdf",
+  "supplier_name": "유니온테크 주식회사",
+  "business_number": "214-87-83307",
+  "quote_number": "EST-2026-8279",
+  "quote_date": "2026-09-26",
+  "validity": {
+    "type": "relative",
+    "days": 90,
+    "text": "발행일로부터 90일간 유효"
+  },
+  "contact_name": "Daniel Kim",
+  "contact_phone": "02-3431-9900",
+  "contact_email": "daniel@uniontech.kr",
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "월말 마감 익월 말 현금",
+  "currency": "USD",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "Ball Screw",
+      "spec": "SFU2510 1000mm",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 216.52,
+      "amount": 10826
+    },
+    {
+      "name": "Industrial Ethernet Switch",
+      "spec": "16-port managed",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 256.17,
+      "amount": 3074.04
+    },
+    {
+      "name": "Linear Actuator",
+      "spec": "300mm 2000N",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 345.37,
+      "amount": 8288.88
+    }
+  ],
+  "subtotal": 22188.92,
+  "vat": null,
+  "total": 22188.92,
+  "note": null,
+  "_meta": {
+    "style": "import",
+    "item_count": 3
+  }
+}

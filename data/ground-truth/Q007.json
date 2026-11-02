@@ -1,0 +1,62 @@
+{
+  "id": "Q007",
+  "file": "Q007.pdf",
+  "supplier_name": "(주)제일전기산업",
+  "business_number": null,
+  "quote_number": "JEI-2608-782",
+  "quote_date": "2026-08-23",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "견적일로부터 30일"
+  },
+  "contact_name": "이정민 과장",
+  "contact_phone": null,
+  "contact_email": "jmlee@jeilelec.co.kr",
+  "delivery_terms": "발주 후 7일 이내",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "스프로킷",
+      "spec": "RS60 17T",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 64400,
+      "amount": 386400
+    },
+    {
+      "name": "타이밍벨트",
+      "spec": "420H 100",
+      "qty": 24,
+      "unit": null,
+      "unit_price": 17100,
+      "amount": 410400
+    },
+    {
+      "name": "오일씰",
+      "spec": "TC 35×52×8",
+      "qty": 20,
+      "unit": null,
+      "unit_price": 3200,
+      "amount": 64000
+    },
+    {
+      "name": "포토센서",
+      "spec": "반사형 2m",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 73200,
+      "amount": 439200
+    }
+  ],
+  "subtotal": 1300000,
+  "vat": 130000,
+  "total": 1430000,
+  "note": null,
+  "_meta": {
+    "style": "word",
+    "item_count": 4
+  }
+}

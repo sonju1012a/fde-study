@@ -1,0 +1,78 @@
+{
+  "id": "Q029",
+  "file": "Q029.pdf",
+  "supplier_name": "대성베어링(주)",
+  "business_number": "124-81-33021",
+  "quote_number": "EST-2026-8180",
+  "quote_date": "2026-10-12",
+  "validity": {
+    "type": "date",
+    "date": "2026-11-11",
+    "text": "2026/11/11"
+  },
+  "contact_name": "이민호 과장",
+  "contact_phone": "031-492-7710",
+  "contact_email": "mhlee@dsbearing.co.kr",
+  "delivery_terms": "재고분 즉시 출고",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "3상 유도전동기",
+      "spec": "0.75kW 4P 220V",
+      "qty": 100,
+      "unit": "대",
+      "unit_price": 874900,
+      "amount": 87490000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS40 15T",
+      "qty": 5,
+      "unit": "EA",
+      "unit_price": 51000,
+      "amount": 255000
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "3포트 1/4\" DC24V",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 42100,
+      "amount": 421000
+    },
+    {
+      "name": "오링",
+      "spec": "P-20 NBR",
+      "qty": 20,
+      "unit": "EA",
+      "unit_price": 2500,
+      "amount": 50000
+    },
+    {
+      "name": "테이퍼롤러베어링",
+      "spec": "32210",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 40800,
+      "amount": 2040000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R1-10",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 1749200,
+      "amount": 17492000
+    }
+  ],
+  "subtotal": 107748000,
+  "vat": 10774800,
+  "total": 118522800,
+  "note": "운송비 별도 (착불)",
+  "_meta": {
+    "style": "erp",
+    "item_count": 6
+  }
+}

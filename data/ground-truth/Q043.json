@@ -1,0 +1,78 @@
+{
+  "id": "Q043",
+  "file": "Q043.pdf",
+  "supplier_name": "한국모터텍 주식회사",
+  "business_number": "220-88-10457",
+  "quote_number": "Q20260920-15",
+  "quote_date": "2026-09-20",
+  "validity": {
+    "type": "date",
+    "date": "2026-10-20",
+    "text": "2026년 10월 20일"
+  },
+  "contact_name": "김수진 대리",
+  "contact_phone": "032-818-3302",
+  "contact_email": "sjkim@kmotortech.com",
+  "delivery_terms": "발주 후 10일",
+  "payment_terms": "현금 (납품 후 30일)",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "포토센서",
+      "spec": "반사형 2m",
+      "qty": 24,
+      "unit": "EA",
+      "unit_price": 29500,
+      "amount": 708000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "PV2R1-10",
+      "qty": 1,
+      "unit": "대",
+      "unit_price": 1446800,
+      "amount": 1446800
+    },
+    {
+      "name": "기어드모터",
+      "spec": "0.4kW 1/30",
+      "qty": 2,
+      "unit": "대",
+      "unit_price": 441900,
+      "amount": 883800
+    },
+    {
+      "name": "오일씰",
+      "spec": "TC 35×52×8",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 4100,
+      "amount": 205000
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "50A 10K FC",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 206500,
+      "amount": 826000
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø50×200ST",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 99400,
+      "amount": 9940000
+    }
+  ],
+  "subtotal": 14009600,
+  "vat": 1400960,
+  "total": 15410560,
+  "note": "주문 제작 품목은 취소 불가",
+  "_meta": {
+    "style": "erp",
+    "item_count": 6
+  }
+}

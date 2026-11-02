@@ -1,0 +1,150 @@
+{
+  "id": "Q019",
+  "file": "Q019.pdf",
+  "supplier_name": "(주)신일유압",
+  "business_number": null,
+  "quote_number": "EST-2026-2399",
+  "quote_date": "2026-07-24",
+  "validity": {
+    "type": "relative",
+    "days": 30,
+    "text": "30일"
+  },
+  "contact_name": "신재훈 부장",
+  "contact_phone": "053-592-3301",
+  "contact_email": "jhshin@shinilhyd.co.kr",
+  "delivery_terms": "발주 후 4주 (수입품)",
+  "payment_terms": "월말마감 익월 25일 현금",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "볼밸브",
+      "spec": "3/4\" SUS304",
+      "qty": 2,
+      "unit": null,
+      "unit_price": 77400,
+      "amount": 154800
+    },
+    {
+      "name": "V벨트",
+      "spec": "A-45",
+      "qty": 20,
+      "unit": null,
+      "unit_price": 11700,
+      "amount": 234000
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "100A 10K FC",
+      "qty": 12,
+      "unit": null,
+      "unit_price": 153800,
+      "amount": 1845600
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "50A 10K FC",
+      "qty": 100,
+      "unit": null,
+      "unit_price": 259300,
+      "amount": 25930000
+    },
+    {
+      "name": "유압펌프",
+      "spec": "A10VSO28",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 911200,
+      "amount": 9112000
+    },
+    {
+      "name": "포토센서",
+      "spec": "투과형 10m",
+      "qty": 20,
+      "unit": null,
+      "unit_price": 47300,
+      "amount": 946000
+    },
+    {
+      "name": "근접센서",
+      "spec": "M18 PNP NO 8mm",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 14300,
+      "amount": 143000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS50 20T",
+      "qty": 5,
+      "unit": null,
+      "unit_price": 44300,
+      "amount": 221500
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6205ZZ",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 10000,
+      "amount": 100000
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS40 15T",
+      "qty": 1,
+      "unit": null,
+      "unit_price": 15500,
+      "amount": 15500
+    },
+    {
+      "name": "인버터",
+      "spec": "2.2kW 3상 380V",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 848600,
+      "amount": 5091600
+    },
+    {
+      "name": "에어실린더",
+      "spec": "Ø40×150ST",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 159300,
+      "amount": 1593000
+    },
+    {
+      "name": "오링",
+      "spec": "P-32 FKM",
+      "qty": 10,
+      "unit": null,
+      "unit_price": 2700,
+      "amount": 27000
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø80×400ST",
+      "qty": 6,
+      "unit": null,
+      "unit_price": 272600,
+      "amount": 1635600
+    },
+    {
+      "name": "PLC 모듈",
+      "spec": "AI 4ch",
+      "qty": 30,
+      "unit": null,
+      "unit_price": 150500,
+      "amount": 4515000
+    }
+  ],
+  "subtotal": 51564600,
+  "vat": 5156460,
+  "total": 56721060,
+  "note": "운송비 별도 (착불)",
+  "_meta": {
+    "style": "word",
+    "item_count": 15
+  }
+}

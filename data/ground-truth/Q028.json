@@ -1,0 +1,118 @@
+{
+  "id": "Q028",
+  "file": "Q028.pdf",
+  "supplier_name": "(주)동양밸브",
+  "business_number": "305-81-02214",
+  "quote_number": "DYV-2608-335",
+  "quote_date": "2026-08-30",
+  "validity": {
+    "type": "relative",
+    "days": 14,
+    "text": "견적일로부터 14일"
+  },
+  "contact_name": "최영호",
+  "contact_phone": null,
+  "contact_email": "sales@dyvalve.co.kr",
+  "delivery_terms": "협의",
+  "payment_terms": "현금결제",
+  "currency": "KRW",
+  "fx_rate": null,
+  "items": [
+    {
+      "name": "V벨트",
+      "spec": "A-45",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 7000,
+      "amount": 28000
+    },
+    {
+      "name": "볼베어링",
+      "spec": "6206ZZ",
+      "qty": 50,
+      "unit": "EA",
+      "unit_price": 7500,
+      "amount": 375000
+    },
+    {
+      "name": "기어드모터",
+      "spec": "0.4kW 1/30",
+      "qty": 10,
+      "unit": "대",
+      "unit_price": 541800,
+      "amount": 5418000
+    },
+    {
+      "name": "유압실린더",
+      "spec": "Ø50×200ST",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 416100,
+      "amount": 416100
+    },
+    {
+      "name": "3상 유도전동기",
+      "spec": "3.7kW 4P 380V",
+      "qty": 4,
+      "unit": "대",
+      "unit_price": 732700,
+      "amount": 2930800
+    },
+    {
+      "name": "리니어가이드",
+      "spec": "HGW25CC 1000L",
+      "qty": 12,
+      "unit": "SET",
+      "unit_price": 114400,
+      "amount": 1372800
+    },
+    {
+      "name": "롤러체인",
+      "spec": "RS50 3m",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 56700,
+      "amount": 680400
+    },
+    {
+      "name": "게이트밸브",
+      "spec": "100A 10K FC",
+      "qty": 2,
+      "unit": "EA",
+      "unit_price": 248200,
+      "amount": 496400
+    },
+    {
+      "name": "솔레노이드밸브",
+      "spec": "2포트 1/4\" DC24V",
+      "qty": 6,
+      "unit": "EA",
+      "unit_price": 45000,
+      "amount": 270000
+    },
+    {
+      "name": "압축스프링",
+      "spec": "Ø1.2×12×50",
+      "qty": 1,
+      "unit": "EA",
+      "unit_price": 2900,
+      "amount": 2900
+    },
+    {
+      "name": "스프로킷",
+      "spec": "RS40 15T",
+      "qty": 200,
+      "unit": "EA",
+      "unit_price": 22500,
+      "amount": 4500000
+    }
+  ],
+  "subtotal": 16490400,
+  "vat": 1649040,
+  "total": 18139440,
+  "note": null,
+  "_meta": {
+    "style": "excel",
+    "item_count": 11
+  }
+}

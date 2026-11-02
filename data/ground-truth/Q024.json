@@ -1,0 +1,70 @@
+{
+  "id": "Q024",
+  "file": "Q024.pdf",
+  "supplier_name": "넥스트오토메이션",
+  "business_number": "215-86-44872",
+  "quote_number": "NEX-2608-821",
+  "quote_date": "2026-08-30",
+  "validity": {
+    "type": "date",
+    "date": "2026-09-29",
+    "text": "2026-09-29"
+  },
+  "contact_name": "오세훈 매니저",
+  "contact_phone": "031-8016-2200",
+  "contact_email": "sh.oh@nextauto.kr",
+  "delivery_terms": "발주 후 2주",
+  "payment_terms": "납품 후 60일 어음",
+  "currency": "USD",
+  "fx_rate": 1401,
+  "items": [
+    {
+      "name": "Ball Screw",
+      "spec": "SFU1605 600mm",
+      "qty": 30,
+      "unit": "EA",
+      "unit_price": 275.03,
+      "amount": 8250.9
+    },
+    {
+      "name": "Industrial Ethernet Switch",
+      "spec": "8-port managed",
+      "qty": 100,
+      "unit": "EA",
+      "unit_price": 211.9,
+      "amount": 21190
+    },
+    {
+      "name": "Industrial Ethernet Switch",
+      "spec": "8-port unmanaged",
+      "qty": 12,
+      "unit": "EA",
+      "unit_price": 980.06,
+      "amount": 11760.72
+    },
+    {
+      "name": "Servo Drive",
+      "spec": "1.5kW 220V",
+      "qty": 10,
+      "unit": "EA",
+      "unit_price": 844.94,
+      "amount": 8449.4
+    },
+    {
+      "name": "Servo Motor",
+      "spec": "1.5kW 2000rpm",
+      "qty": 4,
+      "unit": "EA",
+      "unit_price": 779.15,
+      "amount": 3116.6
+    }
+  ],
+  "subtotal": 52767.62,
+  "vat": null,
+  "total": 52767.62,
+  "note": "견적 수량 변경 시 단가 재협의",
+  "_meta": {
+    "style": "import",
+    "item_count": 5
+  }
+}
