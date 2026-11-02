@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.env
+.env.local
+.env*.local
+.DS_Store
+*.log
+output/
+
+# 분석용 복사본과 중간 산출물 (원본은 data/samples, 생성기로 재생성 가능)
+data/samples-by-supplier/**/*.pdf
+data/generator/html/
+app/output/
