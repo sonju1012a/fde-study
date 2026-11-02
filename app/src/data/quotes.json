@@ -1,0 +1,3610 @@
+[
+ {
+  "id": "Q001",
+  "file": "Q001.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": "124-81-33021",
+   "quote_number": null,
+   "quote_date": "2026-09-30",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-30",
+    "days": null,
+    "text": "2026-10-30"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": "031-492-7710",
+   "contact_email": "mhlee@dsbearing.co.kr",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼밸브",
+     "spec": "3/4\" SUS304",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 71800,
+     "amount": 3590000
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGH20CA 800L",
+     "qty": 12,
+     "unit": "SET",
+     "unit_price": 217200,
+     "amount": 2606400
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGH15CA 500L",
+     "qty": 24,
+     "unit": "SET",
+     "unit_price": 276000,
+     "amount": 6624000
+    },
+    {
+     "name": "오링",
+     "spec": "G-45 NBR",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 1100,
+     "amount": 110000
+    }
+   ],
+   "subtotal": 12930400,
+   "vat": 1293040,
+   "total": 14223440,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q002",
+  "file": "Q002.pdf",
+  "quote": {
+   "supplier_name": "(주)에스엠커플링",
+   "business_number": null,
+   "quote_number": "SMC-2610-496",
+   "quote_date": "2026-10-09",
+   "validity": {
+    "type": "date",
+    "date": "2026-11-08",
+    "days": null,
+    "text": "2026년 11월 8일"
+   },
+   "contact_name": "송민호 이사",
+   "contact_phone": "031-424-5520",
+   "contact_email": "mhsong@smcoupling.co.kr",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼밸브",
+     "spec": "2\" 황동",
+     "qty": 200,
+     "unit": null,
+     "unit_price": 94200,
+     "amount": 18840000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R2-33",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 1173500,
+     "amount": 1173500
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "5포트 1/8\" AC220V",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 101300,
+     "amount": 1013000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "2.2kW 4P 220/380V",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 255300,
+     "amount": 255300
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "AI 4ch",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 347300,
+     "amount": 3473000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M12 NPN NO 4mm",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 42000,
+     "amount": 210000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 2700,
+     "amount": 27000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "0.75kW 4P 220V",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 1430800,
+     "amount": 14308000
+    },
+    {
+     "name": "V벨트",
+     "spec": "A-52",
+     "qty": 4,
+     "unit": null,
+     "unit_price": 4900,
+     "amount": 19600
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "7.5kW 4P 380V",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 1196200,
+     "amount": 11962000
+    }
+   ],
+   "subtotal": 51281400,
+   "vat": 5128140,
+   "total": 56409540,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q003",
+  "file": "Q003.pdf",
+  "quote": {
+   "supplier_name": "(주)코리아기어",
+   "business_number": "127-81-66203",
+   "quote_number": "EST-2026-3383",
+   "quote_date": "2026-09-27",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-11",
+    "days": null,
+    "text": "2026년 10월 11일"
+   },
+   "contact_name": "문성민 차장",
+   "contact_phone": "031-499-8800",
+   "contact_email": "smmoon@koreagear.com",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "기어드모터",
+     "spec": "0.4kW 1/30",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 349800,
+     "amount": 3498000
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø50×200ST",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 131000,
+     "amount": 3144000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "3.7kW 4P 380V",
+     "qty": 1,
+     "unit": "대",
+     "unit_price": 1345300,
+     "amount": 1345300
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø50×200ST",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 764200,
+     "amount": 7642000
+    },
+    {
+     "name": "오링",
+     "spec": "P-20 NBR",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 2200,
+     "amount": 52800
+    }
+   ],
+   "subtotal": 15682100,
+   "vat": 1568210,
+   "total": 17250310,
+   "note": "포장비 포함",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q004",
+  "file": "Q004.pdf",
+  "quote": {
+   "supplier_name": "(주)태양정밀",
+   "business_number": "134-86-20917",
+   "quote_number": "EST-2026-9957",
+   "quote_date": "2026-09-11",
+   "validity": {
+    "type": "date",
+    "date": "2026-12-10",
+    "days": null,
+    "text": "2026-12-10"
+   },
+   "contact_name": "윤미래 주임",
+   "contact_phone": "031-371-5540",
+   "contact_email": "mr.yoon@taeyangpm.co.kr",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "에어실린더",
+     "spec": "Ø32×100ST",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 140100,
+     "amount": 140100
+    }
+   ],
+   "subtotal": 140100,
+   "vat": 14010,
+   "total": 154110,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q005",
+  "file": "Q005.pdf",
+  "quote": {
+   "supplier_name": "한국모터텍 주식회사",
+   "business_number": "220-88-10457",
+   "quote_number": "KMO-2609-942",
+   "quote_date": "2026-09-12",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+   },
+   "contact_name": "김수진 대리",
+   "contact_phone": "032-818-3302",
+   "contact_email": "sjkim@kmotortech.com",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 33000,
+     "amount": 198000
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø50×200ST",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 748900,
+     "amount": 2995600
+    }
+   ],
+   "subtotal": 3193600,
+   "vat": 319360,
+   "total": 3512960,
+   "note": "VAT 별도",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q006",
+  "file": "Q006.pdf",
+  "quote": {
+   "supplier_name": "경인펌프산업",
+   "business_number": "137-19-32245",
+   "quote_number": "EST-2026-6542",
+   "quote_date": "2026-09-19",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+   },
+   "contact_name": "경인수",
+   "contact_phone": null,
+   "contact_email": "kipump@daum.net",
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오일씰",
+     "spec": "TC 25×40×7",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 4400,
+     "amount": 22000
+    }
+   ],
+   "subtotal": 22000,
+   "vat": 2200,
+   "total": 24200,
+   "note": "포장비 포함",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q007",
+  "file": "Q007.pdf",
+  "quote": {
+   "supplier_name": "(주)제일전기산업",
+   "business_number": null,
+   "quote_number": "JEI-2608-782",
+   "quote_date": "2026-08-23",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "견적일로부터 30일"
+   },
+   "contact_name": "이정민 과장",
+   "contact_phone": null,
+   "contact_email": "jmlee@jeilelec.co.kr",
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "스프로킷",
+     "spec": "RS60 17T",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 64400,
+     "amount": 386400
+    },
+    {
+     "name": "타이밍벨트",
+     "spec": "420H 100",
+     "qty": 24,
+     "unit": null,
+     "unit_price": 17100,
+     "amount": 410400
+    },
+    {
+     "name": "오일씰",
+     "spec": "TC 35×52×8",
+     "qty": 20,
+     "unit": null,
+     "unit_price": 3200,
+     "amount": 64000
+    },
+    {
+     "name": "포토센서",
+     "spec": "반사형 2m",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 73200,
+     "amount": 439200
+    }
+   ],
+   "subtotal": 1300000,
+   "vat": 130000,
+   "total": 1430000,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q008",
+  "file": "Q008.pdf",
+  "quote": {
+   "supplier_name": "유니온테크 주식회사",
+   "business_number": null,
+   "quote_number": "UNI-2609-420",
+   "quote_date": "2026-09-26",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-26",
+    "days": null,
+    "text": "2026-10-26"
+   },
+   "contact_name": "Daniel Kim",
+   "contact_phone": "02-3431-9900",
+   "contact_email": "daniel@uniontech.kr",
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "USD",
+   "fx_rate": 1392.5,
+   "items": [
+    {
+     "name": "Ball Screw",
+     "spec": "SFU2510 1000mm",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 391.19,
+     "amount": 19559.5
+    },
+    {
+     "name": "Servo Drive",
+     "spec": "750W 220V",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 1607.88,
+     "amount": 32157.6
+    },
+    {
+     "name": "Industrial Ethernet Switch",
+     "spec": "8-port unmanaged",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 1029.83,
+     "amount": 30894.9
+    },
+    {
+     "name": "Servo Motor",
+     "spec": "400W 3000rpm w/ brake",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 431.62,
+     "amount": 1726.48
+    },
+    {
+     "name": "Industrial Ethernet Switch",
+     "spec": "16-port managed",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 507.24,
+     "amount": 2028.96
+    },
+    {
+     "name": "Linear Actuator",
+     "spec": "200mm 1000N",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 722.39,
+     "amount": 36119.5
+    }
+   ],
+   "subtotal": 122486.94,
+   "vat": null,
+   "total": 122486.94,
+   "note": "VAT 별도",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q009",
+  "file": "Q009.pdf",
+  "quote": {
+   "supplier_name": "글로벌파츠코리아(주)",
+   "business_number": "211-87-55310",
+   "quote_number": null,
+   "quote_date": "2026-10-05",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "견적일로부터 30일"
+   },
+   "contact_name": "Jiwon Han",
+   "contact_phone": "02-561-7000",
+   "contact_email": "jhan@globalpartskr.com",
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "월말 마감 익월 말 현금",
+   "currency": "USD",
+   "fx_rate": 1385.2,
+   "items": [
+    {
+     "name": "Servo Drive",
+     "spec": "400W 220V",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 1408.21,
+     "amount": 140821
+    },
+    {
+     "name": "Pressure Transmitter",
+     "spec": "0-25bar 4-20mA",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 471.36,
+     "amount": 4713.6
+    },
+    {
+     "name": "Pressure Transmitter",
+     "spec": "0-100bar 4-20mA",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 312.82,
+     "amount": 1876.92
+    },
+    {
+     "name": "Encoder",
+     "spec": "1024ppr Incremental",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 605.45,
+     "amount": 60545
+    },
+    {
+     "name": "Ball Screw",
+     "spec": "SFU1605 600mm",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 242.8,
+     "amount": 12140
+    }
+   ],
+   "subtotal": 220096.52,
+   "vat": null,
+   "total": 220096.52,
+   "note": "VAT 별도 (Excluded); 포장비 포함; 환율 적용 기준: 1385.2 KRW/USD (견적일 기준, 참고용). 원화 환산액은 발주일 매매기준율로 재산정.",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q010",
+  "file": "Q010.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": "124-81-33021",
+   "quote_number": "EST-2026-5271",
+   "quote_date": "2026-09-07",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 60,
+    "text": "발행일로부터 60일간 유효"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": "031-492-7710",
+   "contact_email": null,
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "포토센서",
+     "spec": "반사형 2m",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 76100,
+     "amount": 152200
+    },
+    {
+     "name": "인버터",
+     "spec": "2.2kW 3상 380V",
+     "qty": 12,
+     "unit": "대",
+     "unit_price": 905100,
+     "amount": 10861200
+    },
+    {
+     "name": "플렉시블커플링",
+     "spec": "JAW L095",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 159500,
+     "amount": 1914000
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGW25CC 1000L",
+     "qty": 10,
+     "unit": "SET",
+     "unit_price": 195500,
+     "amount": 1955000
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "DO 16점 릴레이",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 216300,
+     "amount": 6489000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "7.5kW 4P 380V",
+     "qty": 5,
+     "unit": "대",
+     "unit_price": 637700,
+     "amount": 3188500
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø1.2×12×50",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 2600,
+     "amount": 15600
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø40×150ST",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 135500,
+     "amount": 271000
+    }
+   ],
+   "subtotal": 24846500,
+   "vat": 2484650,
+   "total": 27331150,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q011",
+  "file": "Q011.pdf",
+  "quote": {
+   "supplier_name": "(주)코리아기어",
+   "business_number": "127-81-66203",
+   "quote_number": "Q20261014-28",
+   "quote_date": "2026-10-14",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "30일"
+   },
+   "contact_name": "문성민 차장",
+   "contact_phone": "031-499-8800",
+   "contact_email": "smmoon@koreagear.com",
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼베어링",
+     "spec": "6002ZZ",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 4200,
+     "amount": 50400
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R1-10",
+     "qty": 1,
+     "unit": "대",
+     "unit_price": 1959900,
+     "amount": 1959900
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 3800,
+     "amount": 91200
+    }
+   ],
+   "subtotal": 2101500,
+   "vat": 210150,
+   "total": 2311650,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q012",
+  "file": "Q012.pdf",
+  "quote": {
+   "supplier_name": "(주)광명스프링",
+   "business_number": "140-81-70562",
+   "quote_number": "Q20260930-33",
+   "quote_date": "2026-09-30",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-30",
+    "days": null,
+    "text": "2026.10.30"
+   },
+   "contact_name": "배수지 주임",
+   "contact_phone": "02-2688-1177",
+   "contact_email": "sjbae@kmspring.co.kr",
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오링",
+     "spec": "P-32 FKM",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 1500,
+     "amount": 3000
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6308-2RS",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 5100,
+     "amount": 51000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS50 20T",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 29000,
+     "amount": 870000
+    }
+   ],
+   "subtotal": 924000,
+   "vat": 92400,
+   "total": 1016400,
+   "note": "VAT 별도",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q013",
+  "file": "Q013.pdf",
+  "quote": {
+   "supplier_name": "서울센서시스템",
+   "business_number": "105-87-71123",
+   "quote_number": "Q20260902-67",
+   "quote_date": "2026-09-02",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 90,
+    "text": "견적일로부터 90일"
+   },
+   "contact_name": "박찬호 팀장",
+   "contact_phone": "02-2026-4410",
+   "contact_email": "chpark@seoulsensor.kr",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "플렉시블커플링",
+     "spec": "JAW L095",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 57000,
+     "amount": 570000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 3600,
+     "amount": 43200
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 114600,
+     "amount": 687600
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø32×100ST",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 82600,
+     "amount": 1982400
+    },
+    {
+     "name": "근접센서",
+     "spec": "M18 PNP NO 8mm",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 26400,
+     "amount": 528000
+    }
+   ],
+   "subtotal": 3811200,
+   "vat": 381120,
+   "total": 4192320,
+   "note": "운송비 별도 (착불)",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q014",
+  "file": "Q014.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "Q20261005-07",
+   "quote_date": "2026-10-05",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+   },
+   "contact_name": "최영호",
+   "contact_phone": null,
+   "contact_email": "sales@dyvalve.co.kr",
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "롤러체인",
+     "spec": "RS60 3m",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 74000,
+     "amount": 740000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "30205",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 11000,
+     "amount": 2200000
+    },
+    {
+     "name": "V벨트",
+     "spec": "A-45",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 6900,
+     "amount": 1380000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R2-33",
+     "qty": 200,
+     "unit": "대",
+     "unit_price": 835800,
+     "amount": 167160000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø1.2×12×50",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 4000,
+     "amount": 8000
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "DI 16점 DC24V",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 151500,
+     "amount": 1515000
+    },
+    {
+     "name": "플렉시블커플링",
+     "spec": "디스크 Ø56",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 169800,
+     "amount": 8490000
+    }
+   ],
+   "subtotal": 181493000,
+   "vat": 18149300,
+   "total": 199642300,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q015",
+  "file": "Q015.pdf",
+  "quote": {
+   "supplier_name": "세진산업",
+   "business_number": null,
+   "quote_number": "Q20260810-55",
+   "quote_date": "2026-08-10",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 60,
+    "text": "60일"
+   },
+   "contact_name": "강세진 대표",
+   "contact_phone": null,
+   "contact_email": "sejin1270@naver.com",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "월말 마감 익월 말 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "에어실린더",
+     "spec": "Ø32×100ST",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 152300,
+     "amount": 1523000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "30205",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 40800,
+     "amount": 40800
+    },
+    {
+     "name": "롤러체인",
+     "spec": "RS40 3m",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 32700,
+     "amount": 163500
+    },
+    {
+     "name": "인버터",
+     "spec": "5.5kW 3상 380V",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 1170400,
+     "amount": 7022400
+    }
+   ],
+   "subtotal": 8749700,
+   "vat": 874970,
+   "total": 9624670,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q016",
+  "file": "Q016.pdf",
+  "quote": {
+   "supplier_name": "한양공압(주)",
+   "business_number": "109-81-20335",
+   "quote_number": "Q20260906-82",
+   "quote_date": "2026-09-06",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-06",
+    "days": null,
+    "text": "2026.10.06"
+   },
+   "contact_name": "김하늘 사원",
+   "contact_phone": "02-468-7733",
+   "contact_email": "skykim@hypneu.co.kr",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오일씰",
+     "spec": "TC 35×52×8",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 4700,
+     "amount": 141000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS50 20T",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 15800,
+     "amount": 94800
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "3포트 1/4\" DC24V",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 51400,
+     "amount": 102800
+    }
+   ],
+   "subtotal": 338600,
+   "vat": 33860,
+   "total": 372460,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q017",
+  "file": "Q017.pdf",
+  "quote": {
+   "supplier_name": "아이티씨인더스트리",
+   "business_number": "606-86-09981",
+   "quote_number": null,
+   "quote_date": "2026-10-11",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 90,
+    "text": "발행일로부터 90일간 유효"
+   },
+   "contact_name": "최아이 대표",
+   "contact_phone": null,
+   "contact_email": "itc@itcind.kr",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "현금 (납품 후 30일)",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "솔레노이드밸브",
+     "spec": "3포트 1/4\" DC24V",
+     "qty": 4,
+     "unit": null,
+     "unit_price": 41500,
+     "amount": 166000
+    },
+    {
+     "name": "타이밍벨트",
+     "spec": "300L 075",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 15100,
+     "amount": 181200
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø32×100ST",
+     "qty": 2,
+     "unit": null,
+     "unit_price": 134100,
+     "amount": 268200
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "80A 10K FC",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 266500,
+     "amount": 1332500
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R1-10",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 1962100,
+     "amount": 58863000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M12 NPN NO 4mm",
+     "qty": 24,
+     "unit": null,
+     "unit_price": 35200,
+     "amount": 844800
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø63×250ST",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 132300,
+     "amount": 661500
+    },
+    {
+     "name": "볼밸브",
+     "spec": "1\" SUS316",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 57500,
+     "amount": 1725000
+    }
+   ],
+   "subtotal": 64042200,
+   "vat": 6404220,
+   "total": 70446420,
+   "note": "포장비 포함",
+   "low_confidence_fields": [
+    "payment_terms"
+   ]
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q018",
+  "file": "Q018.pdf",
+  "quote": {
+   "supplier_name": "(주)코리아기어",
+   "business_number": "127-81-66203",
+   "quote_number": "EST-2026-9518",
+   "quote_date": "2026-08-28",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 14,
+    "text": "견적일로부터 14일"
+   },
+   "contact_name": "문성민 차장",
+   "contact_phone": "031-499-8800",
+   "contact_email": "smmoon@koreagear.com",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "압축스프링",
+     "spec": "Ø3.0×30×100",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 3200,
+     "amount": 640000
+    }
+   ],
+   "subtotal": 640000,
+   "vat": 64000,
+   "total": 704000,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q019",
+  "file": "Q019.pdf",
+  "quote": {
+   "supplier_name": "(주)신일유압",
+   "business_number": null,
+   "quote_number": "EST-2026-2399",
+   "quote_date": "2026-07-24",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "30일"
+   },
+   "contact_name": "신재훈 부장",
+   "contact_phone": "053-592-3301",
+   "contact_email": "jhshin@shinilhyd.co.kr",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼밸브",
+     "spec": "3/4\" SUS304",
+     "qty": 2,
+     "unit": null,
+     "unit_price": 77400,
+     "amount": 154800
+    },
+    {
+     "name": "V벨트",
+     "spec": "A-45",
+     "qty": 20,
+     "unit": null,
+     "unit_price": 11700,
+     "amount": 234000
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "100A 10K FC",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 153800,
+     "amount": 1845600
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "50A 10K FC",
+     "qty": 100,
+     "unit": null,
+     "unit_price": 259300,
+     "amount": 25930000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "A10VSO28",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 911200,
+     "amount": 9112000
+    },
+    {
+     "name": "포토센서",
+     "spec": "투과형 10m",
+     "qty": 20,
+     "unit": null,
+     "unit_price": 47300,
+     "amount": 946000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M18 PNP NO 8mm",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 14300,
+     "amount": 143000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS50 20T",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 44300,
+     "amount": 221500
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6205ZZ",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 10000,
+     "amount": 100000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS40 15T",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 15500,
+     "amount": 15500
+    },
+    {
+     "name": "인버터",
+     "spec": "2.2kW 3상 380V",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 848600,
+     "amount": 5091600
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø40×150ST",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 159300,
+     "amount": 1593000
+    },
+    {
+     "name": "오링",
+     "spec": "P-32 FKM",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 2700,
+     "amount": 27000
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø80×400ST",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 272600,
+     "amount": 1635600
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "AI 4ch",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 150500,
+     "amount": 4515000
+    }
+   ],
+   "subtotal": 51564600,
+   "vat": 5156460,
+   "total": 56721060,
+   "note": "운송비 별도 (착불)",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q020",
+  "file": "Q020.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": null,
+   "quote_number": "Q20260930-75",
+   "quote_date": "2026-09-30",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 14,
+    "text": "발행일로부터 14일간 유효"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": null,
+   "contact_email": "mhlee@dsbearing.co.kr",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "월말 마감 익월 말 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "인버터",
+     "spec": "5.5kW 3상 380V",
+     "qty": 4,
+     "unit": "대",
+     "unit_price": 858200,
+     "amount": 3432800
+    },
+    {
+     "name": "타이밍벨트",
+     "spec": "420H 100",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 31500,
+     "amount": 756000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R1-10",
+     "qty": 2,
+     "unit": "대",
+     "unit_price": 1554000,
+     "amount": 3108000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "32012",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 58800,
+     "amount": 58800
+    },
+    {
+     "name": "타이밍벨트",
+     "spec": "510XL 037",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 40000,
+     "amount": 160000
+    },
+    {
+     "name": "플렉시블커플링",
+     "spec": "JAW L095",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 159000,
+     "amount": 795000
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 111500,
+     "amount": 111500
+    },
+    {
+     "name": "볼밸브",
+     "spec": "2\" 황동",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 71600,
+     "amount": 358000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M12 NPN NO 4mm",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 40800,
+     "amount": 1224000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "30205",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 26100,
+     "amount": 5220000
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6205ZZ",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 6500,
+     "amount": 6500
+    }
+   ],
+   "subtotal": 15230600,
+   "vat": 1523060,
+   "total": 16753660,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q021",
+  "file": "Q021.pdf",
+  "quote": {
+   "supplier_name": "아이티씨인더스트리",
+   "business_number": "606-86-09981",
+   "quote_number": "Q20261017-25",
+   "quote_date": "2026-10-17",
+   "validity": {
+    "type": "date",
+    "date": "2026-11-16",
+    "days": null,
+    "text": "2026-11-16"
+   },
+   "contact_name": "최아이 대표",
+   "contact_phone": "051-831-2290",
+   "contact_email": null,
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "근접센서",
+     "spec": "M18 PNP NO 8mm",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 43500,
+     "amount": 217500
+    },
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 38500,
+     "amount": 462000
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6206ZZ",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 11400,
+     "amount": 68400
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø32×100ST",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 162800,
+     "amount": 162800
+    },
+    {
+     "name": "V벨트",
+     "spec": "B-60",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 10000,
+     "amount": 10000
+    },
+    {
+     "name": "인버터",
+     "spec": "5.5kW 3상 380V",
+     "qty": 2,
+     "unit": null,
+     "unit_price": 1004900,
+     "amount": 2009800
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 106100,
+     "amount": 3183000
+    }
+   ],
+   "subtotal": 6113500,
+   "vat": 611350,
+   "total": 6724850,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q022",
+  "file": "Q022.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "EST-2026-5737",
+   "quote_date": "2026-09-12",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "30일"
+   },
+   "contact_name": "최영호",
+   "contact_phone": "042-934-1180",
+   "contact_email": null,
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "유압펌프",
+     "spec": "PV2R2-33",
+     "qty": 1,
+     "unit": "대",
+     "unit_price": 939600,
+     "amount": 939600
+    },
+    {
+     "name": "포토센서",
+     "spec": "미러반사형 5m",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 70000,
+     "amount": 350000
+    },
+    {
+     "name": "오링",
+     "spec": "P-32 FKM",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 900,
+     "amount": 900
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGH15CA 500L",
+     "qty": 10,
+     "unit": "SET",
+     "unit_price": 194400,
+     "amount": 1944000
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "5포트 1/8\" AC220V",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 90800,
+     "amount": 9080000
+    },
+    {
+     "name": "플렉시블커플링",
+     "spec": "JAW L100",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 48500,
+     "amount": 4850000
+    },
+    {
+     "name": "포토센서",
+     "spec": "투과형 10m",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 56700,
+     "amount": 567000
+    }
+   ],
+   "subtotal": 17731500,
+   "vat": 1773150,
+   "total": 19504650,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q023",
+  "file": "Q023.pdf",
+  "quote": {
+   "supplier_name": "유니온테크 주식회사",
+   "business_number": "214-87-83307",
+   "quote_number": "EST-2026-8279",
+   "quote_date": "2026-09-26",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 90,
+    "text": "발행일로부터 90일간 유효"
+   },
+   "contact_name": "Daniel Kim",
+   "contact_phone": "02-3431-9900",
+   "contact_email": "daniel@uniontech.kr",
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "월말 마감 익월 말 현금",
+   "currency": "USD",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "Ball Screw",
+     "spec": "SFU2510 1000mm",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 216.52,
+     "amount": 10826
+    },
+    {
+     "name": "Industrial Ethernet Switch",
+     "spec": "16-port managed",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 256.17,
+     "amount": 3074.04
+    },
+    {
+     "name": "Linear Actuator",
+     "spec": "300mm 2000N",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 345.37,
+     "amount": 8288.88
+    }
+   ],
+   "subtotal": 22188.92,
+   "vat": null,
+   "total": 22188.92,
+   "note": "VAT 별도 (Excluded). FX: USD 견적. 원화 환산은 발주일 서울외국환중개 매매기준율 적용. 부가세 및 관세 별도.",
+   "low_confidence_fields": [
+    "note"
+   ]
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q024",
+  "file": "Q024.pdf",
+  "quote": {
+   "supplier_name": "넥스트오토메이션",
+   "business_number": "215-86-44872",
+   "quote_number": "NEX-2608-821",
+   "quote_date": "2026-08-30",
+   "validity": {
+    "type": "date",
+    "date": "2026-09-29",
+    "days": null,
+    "text": "2026-09-29"
+   },
+   "contact_name": "오세훈 매니저",
+   "contact_phone": "031-8016-2200",
+   "contact_email": "sh.oh@nextauto.kr",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "USD",
+   "fx_rate": 1401,
+   "items": [
+    {
+     "name": "Ball Screw",
+     "spec": "SFU1605 600mm",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 275.03,
+     "amount": 8250.9
+    },
+    {
+     "name": "Industrial Ethernet Switch",
+     "spec": "8-port managed",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 211.9,
+     "amount": 21190
+    },
+    {
+     "name": "Industrial Ethernet Switch",
+     "spec": "8-port unmanaged",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 980.06,
+     "amount": 11760.72
+    },
+    {
+     "name": "Servo Drive",
+     "spec": "1.5kW 220V",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 844.94,
+     "amount": 8449.4
+    },
+    {
+     "name": "Servo Motor",
+     "spec": "1.5kW 2000rpm",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 779.15,
+     "amount": 3116.6
+    }
+   ],
+   "subtotal": 52767.62,
+   "vat": null,
+   "total": 52767.62,
+   "note": "견적 수량 변경 시 단가 재협의. VAT 별도 (Excluded). FX: 환율 적용 기준: 1401.0 KRW/USD (견적일 기준, 참고용). 원화 환산액은 발주일 매매기준율로 재산정.",
+   "low_confidence_fields": [
+    "note"
+   ]
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q025",
+  "file": "Q025.pdf",
+  "quote": {
+   "supplier_name": "(주)코리아기어",
+   "business_number": "127-81-66203",
+   "quote_number": null,
+   "quote_date": "2026-07-22",
+   "validity": {
+    "type": "date",
+    "date": "2026-08-21",
+    "days": null,
+    "text": "2026/08/21"
+   },
+   "contact_name": "문성민 차장",
+   "contact_phone": "031-499-8800",
+   "contact_email": null,
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오링",
+     "spec": "P-32 FKM",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 1000,
+     "amount": 2000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 1100,
+     "amount": 2200
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 113000,
+     "amount": 22600000
+    }
+   ],
+   "subtotal": 22604200,
+   "vat": 2260420,
+   "total": 24864620,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q026",
+  "file": "Q026.pdf",
+  "quote": {
+   "supplier_name": "한국모터텍 주식회사",
+   "business_number": null,
+   "quote_number": null,
+   "quote_date": "2026-09-29",
+   "validity": {
+    "type": "date",
+    "date": "2026-12-28",
+    "days": null,
+    "text": "2026/12/28"
+   },
+   "contact_name": "김수진 대리",
+   "contact_phone": "032-818-3302",
+   "contact_email": null,
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "유압실린더",
+     "spec": "Ø63×300ST",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 818500,
+     "amount": 818500
+    },
+    {
+     "name": "V벨트",
+     "spec": "A-52",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 9700,
+     "amount": 485000
+    },
+    {
+     "name": "기어드모터",
+     "spec": "1.5kW 1/15",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 711200,
+     "amount": 7112000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS60 17T",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 16700,
+     "amount": 835000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "A10VSO28",
+     "qty": 1,
+     "unit": "대",
+     "unit_price": 2263300,
+     "amount": 2263300
+    },
+    {
+     "name": "타이밍벨트",
+     "spec": "510XL 037",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 37000,
+     "amount": 370000
+    },
+    {
+     "name": "플렉시블커플링",
+     "spec": "JAW L100",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 110100,
+     "amount": 550500
+    }
+   ],
+   "subtotal": 12434300,
+   "vat": 1243430,
+   "total": 13677730,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q027",
+  "file": "Q027.pdf",
+  "quote": {
+   "supplier_name": "경인펌프산업",
+   "business_number": null,
+   "quote_number": "DAU-2609-393",
+   "quote_date": "2026-09-10",
+   "validity": {
+    "type": "date",
+    "date": "2026-09-24",
+    "days": null,
+    "text": "유효기간 2026년 9월 24일"
+   },
+   "contact_name": "경인수",
+   "contact_phone": "031-996-7781",
+   "contact_email": null,
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "3상 유도전동기",
+     "spec": "2.2kW 4P 220/380V",
+     "qty": 100,
+     "unit": null,
+     "unit_price": 1301300,
+     "amount": 130130000
+    },
+    {
+     "name": "인버터",
+     "spec": "0.75kW 단상 220V",
+     "qty": 2,
+     "unit": null,
+     "unit_price": 704000,
+     "amount": 1408000
+    },
+    {
+     "name": "오일씰",
+     "spec": "TC 45×62×8",
+     "qty": 50,
+     "unit": null,
+     "unit_price": 5600,
+     "amount": 280000
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGH20CA 800L",
+     "qty": 100,
+     "unit": null,
+     "unit_price": 165900,
+     "amount": 16590000
+    },
+    {
+     "name": "롤러체인",
+     "spec": "RS50 3m",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 37600,
+     "amount": 1128000
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6002ZZ",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 8900,
+     "amount": 106800
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "0.75kW 4P 220V",
+     "qty": 100,
+     "unit": null,
+     "unit_price": 721400,
+     "amount": 72140000
+    },
+    {
+     "name": "플렉시블커플링",
+     "spec": "JAW L095",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 170100,
+     "amount": 1020600
+    },
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 38800,
+     "amount": 388000
+    }
+   ],
+   "subtotal": 223191400,
+   "vat": 22319140,
+   "total": 245510540,
+   "note": "포장비 포함",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q028",
+  "file": "Q028.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "DYV-2608-335",
+   "quote_date": "2026-08-30",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 14,
+    "text": "견적일로부터 14일"
+   },
+   "contact_name": "최영호",
+   "contact_phone": null,
+   "contact_email": "sales@dyvalve.co.kr",
+   "delivery_terms": "협의",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "V벨트",
+     "spec": "A-45",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 7000,
+     "amount": 28000
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6206ZZ",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 7500,
+     "amount": 375000
+    },
+    {
+     "name": "기어드모터",
+     "spec": "0.4kW 1/30",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 541800,
+     "amount": 5418000
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø50×200ST",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 416100,
+     "amount": 416100
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "3.7kW 4P 380V",
+     "qty": 4,
+     "unit": "대",
+     "unit_price": 732700,
+     "amount": 2930800
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGW25CC 1000L",
+     "qty": 12,
+     "unit": "SET",
+     "unit_price": 114400,
+     "amount": 1372800
+    },
+    {
+     "name": "롤러체인",
+     "spec": "RS50 3m",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 56700,
+     "amount": 680400
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "100A 10K FC",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 248200,
+     "amount": 496400
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 45000,
+     "amount": 270000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø1.2×12×50",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 2900,
+     "amount": 2900
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS40 15T",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 22500,
+     "amount": 4500000
+    }
+   ],
+   "subtotal": 16490400,
+   "vat": 1649040,
+   "total": 18139440,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q029",
+  "file": "Q029.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": "124-81-33021",
+   "quote_number": "EST-2026-8180",
+   "quote_date": "2026-10-12",
+   "validity": {
+    "type": "date",
+    "date": "2026-11-11",
+    "days": null,
+    "text": "2026/11/11"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": "031-492-7710",
+   "contact_email": "mhlee@dsbearing.co.kr",
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "3상 유도전동기",
+     "spec": "0.75kW 4P 220V",
+     "qty": 100,
+     "unit": "대",
+     "unit_price": 874900,
+     "amount": 87490000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS40 15T",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 51000,
+     "amount": 255000
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "3포트 1/4\" DC24V",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 42100,
+     "amount": 421000
+    },
+    {
+     "name": "오링",
+     "spec": "P-20 NBR",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 2500,
+     "amount": 50000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "32210",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 40800,
+     "amount": 2040000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R1-10",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 1749200,
+     "amount": 17492000
+    }
+   ],
+   "subtotal": 107748000,
+   "vat": 10774800,
+   "total": 118522800,
+   "note": "운송비 별도 (착불)",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q030",
+  "file": "Q030.pdf",
+  "quote": {
+   "supplier_name": "(주)제일전기산업",
+   "business_number": "113-81-54420",
+   "quote_number": null,
+   "quote_date": "2026-07-23",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-21",
+    "days": null,
+    "text": "유효기간: 2026-10-21"
+   },
+   "contact_name": "이정민 과장",
+   "contact_phone": null,
+   "contact_email": "jmlee@jeilelec.co.kr",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "스프로킷",
+     "spec": "RS40 15T",
+     "qty": 100,
+     "unit": null,
+     "unit_price": 23700,
+     "amount": 2370000
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø50×200ST",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 235300,
+     "amount": 1411800
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "30205",
+     "qty": 6,
+     "unit": null,
+     "unit_price": 57100,
+     "amount": 342600
+    }
+   ],
+   "subtotal": 4124400,
+   "vat": 412440,
+   "total": 4536840,
+   "note": "VAT 별도",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q031",
+  "file": "Q031.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": "124-81-33021",
+   "quote_number": "EST-2026-8012",
+   "quote_date": "2026-09-06",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-06",
+    "days": null,
+    "text": "2026.10.06"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": "031-492-7710",
+   "contact_email": "mhlee@dsbearing.co.kr",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "리니어가이드",
+     "spec": "HGH20CA 800L",
+     "qty": 1,
+     "unit": "SET",
+     "unit_price": 198500,
+     "amount": 198500
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø1.2×12×50",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 2100,
+     "amount": 10500
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGW25CC 1000L",
+     "qty": 100,
+     "unit": "SET",
+     "unit_price": 182000,
+     "amount": 18200000
+    }
+   ],
+   "subtotal": 18409000,
+   "vat": 1840900,
+   "total": 20249900,
+   "note": "포장비 포함",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q032",
+  "file": "Q032.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "EST-2026-1561",
+   "quote_date": "2026-10-05",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 60,
+    "text": "견적일로부터 60일"
+   },
+   "contact_name": "최영호",
+   "contact_phone": "042-934-1180",
+   "contact_email": null,
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오링",
+     "spec": "G-45 NBR",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 2300,
+     "amount": 13800
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS40 15T",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 60700,
+     "amount": 1456800
+    },
+    {
+     "name": "볼베어링",
+     "spec": "6002ZZ",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 11800,
+     "amount": 2360000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "2.2kW 4P 220/380V",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 409300,
+     "amount": 4093000
+    }
+   ],
+   "subtotal": 7923600,
+   "vat": 792360,
+   "total": 8715960,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q033",
+  "file": "Q033.pdf",
+  "quote": {
+   "supplier_name": "글로벌파츠코리아(주)",
+   "business_number": null,
+   "quote_number": "GLO-2609-810",
+   "quote_date": "2026-09-16",
+   "validity": {
+    "type": "date",
+    "date": "2026-12-15",
+    "days": null,
+    "text": "Valid Until / 유효기간: 2026.12.15"
+   },
+   "contact_name": "Jiwon Han",
+   "contact_phone": "02-561-7000",
+   "contact_email": "jhan@globalpartskr.com",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "USD",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "Servo Motor",
+     "spec": "400W 3000rpm w/ brake",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 974.96,
+     "amount": 1949.92
+    },
+    {
+     "name": "Encoder",
+     "spec": "17bit Absolute",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 521.18,
+     "amount": 5211.8
+    }
+   ],
+   "subtotal": 7161.72,
+   "vat": null,
+   "total": 7161.72,
+   "note": "VAT 별도 (Excluded). FX: USD 견적. 원화 환산은 발주일 서울외국환중개 매매기준율 적용. 부가세 및 관세 별도.",
+   "low_confidence_fields": [
+    "contact_phone"
+   ]
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q034",
+  "file": "Q034.pdf",
+  "quote": {
+   "supplier_name": "한국모터텍 주식회사",
+   "business_number": "220-88-10457",
+   "quote_number": "KMO-2608-272",
+   "quote_date": "2026-08-20",
+   "validity": {
+    "type": "date",
+    "date": "2026-09-19",
+    "days": null,
+    "text": "2026.09.19"
+   },
+   "contact_name": "김수진 대리",
+   "contact_phone": "032-818-3302",
+   "contact_email": "sjkim@kmotortech.com",
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 63500,
+     "amount": 127000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 1200,
+     "amount": 4800
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "3.7kW 4P 380V",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 284100,
+     "amount": 2841000
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGH15CA 500L",
+     "qty": 10,
+     "unit": "SET",
+     "unit_price": 235100,
+     "amount": 2351000
+    },
+    {
+     "name": "인버터",
+     "spec": "0.75kW 단상 220V",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 1179800,
+     "amount": 11798000
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø80×400ST",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 741800,
+     "amount": 3709000
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "DI 16점 DC24V",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 327500,
+     "amount": 9825000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø1.2×12×50",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 3700,
+     "amount": 88800
+    }
+   ],
+   "subtotal": 30744600,
+   "vat": 3074460,
+   "total": 33819060,
+   "note": "운송비 별도 (착불)",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q035",
+  "file": "Q035.pdf",
+  "quote": {
+   "supplier_name": "경인펌프산업",
+   "business_number": "137-19-32245",
+   "quote_number": "Q20260915-82",
+   "quote_date": "2026-09-15",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "유효기간 30일"
+   },
+   "contact_name": "경인수",
+   "contact_phone": "031-996-7781",
+   "contact_email": "kipump@daum.net",
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "현금 (납품 후 30일)",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "압축스프링",
+     "spec": "Ø1.2×12×50",
+     "qty": 20,
+     "unit": null,
+     "unit_price": 3800,
+     "amount": 76000
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 5,
+     "unit": null,
+     "unit_price": 85500,
+     "amount": 427500
+    },
+    {
+     "name": "근접센서",
+     "spec": "M12 NPN NO 4mm",
+     "qty": 1,
+     "unit": null,
+     "unit_price": 29000,
+     "amount": 29000
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "AI 4ch",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 276200,
+     "amount": 2762000
+    },
+    {
+     "name": "리니어가이드",
+     "spec": "HGH15CA 500L",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 139800,
+     "amount": 1677600
+    }
+   ],
+   "subtotal": 4972100,
+   "vat": 497210,
+   "total": 5469310,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q036",
+  "file": "Q036.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": "124-81-33021",
+   "quote_number": "DSB-2608-239",
+   "quote_date": "2026-08-12",
+   "validity": {
+    "type": "date",
+    "date": "2026-09-11",
+    "days": null,
+    "text": "2026-09-11"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": "031-492-7710",
+   "contact_email": null,
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "스프로킷",
+     "spec": "RS60 17T",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 25800,
+     "amount": 258000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "3.7kW 4P 380V",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 963000,
+     "amount": 9630000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "30205",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 46600,
+     "amount": 93200
+    }
+   ],
+   "subtotal": 9981200,
+   "vat": 998120,
+   "total": 10979320,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q037",
+  "file": "Q037.pdf",
+  "quote": {
+   "supplier_name": "서울센서시스템",
+   "business_number": "105-87-71123",
+   "quote_number": "EST-2026-9968",
+   "quote_date": "2026-10-16",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 14,
+    "text": "14일"
+   },
+   "contact_name": "박찬호 팀장",
+   "contact_phone": null,
+   "contact_email": "chpark@seoulsensor.kr",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "현금 (납품 후 30일)",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "리니어가이드",
+     "spec": "HGH20CA 800L",
+     "qty": 5,
+     "unit": "SET",
+     "unit_price": 272600,
+     "amount": 1363000
+    }
+   ],
+   "subtotal": 1363000,
+   "vat": 136300,
+   "total": 1499300,
+   "note": "운송비 별도 (착불)",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q038",
+  "file": "Q038.pdf",
+  "quote": {
+   "supplier_name": "(주)제일전기산업",
+   "business_number": "113-81-54420",
+   "quote_number": "JEI-2608-468",
+   "quote_date": "2026-08-05",
+   "validity": {
+    "type": "date",
+    "date": "2026-09-04",
+    "days": null,
+    "text": "2026/09/04"
+   },
+   "contact_name": "이정민 과장",
+   "contact_phone": "02-857-6600",
+   "contact_email": "jmlee@jeilelec.co.kr",
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "플렉시블커플링",
+     "spec": "디스크 Ø56",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 80900,
+     "amount": 2427000
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "32012",
+     "qty": 2,
+     "unit": null,
+     "unit_price": 52900,
+     "amount": 105800
+    },
+    {
+     "name": "PLC 모듈",
+     "spec": "AI 4ch",
+     "qty": 50,
+     "unit": null,
+     "unit_price": 310800,
+     "amount": 15540000
+    }
+   ],
+   "subtotal": 18072800,
+   "vat": 1807280,
+   "total": 19880080,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q039",
+  "file": "Q039.pdf",
+  "quote": {
+   "supplier_name": "세진산업",
+   "business_number": "610-12-48855",
+   "quote_number": null,
+   "quote_date": "2026-10-18",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "발행일로부터 30일간 유효"
+   },
+   "contact_name": "강세진 대표",
+   "contact_phone": "051-316-9920",
+   "contact_email": "sejin1270@naver.com",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "납품 후 60일 어음",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "기어드모터",
+     "spec": "1.5kW 1/15",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 565100,
+     "amount": 6781200
+    },
+    {
+     "name": "볼밸브",
+     "spec": "3/4\" SUS304",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 18000,
+     "amount": 216000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 4,
+     "unit": null,
+     "unit_price": 40000,
+     "amount": 160000
+    }
+   ],
+   "subtotal": 7157200,
+   "vat": 715720,
+   "total": 7872920,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q040",
+  "file": "Q040.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "Q20260911-33",
+   "quote_date": "2026-09-11",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-11",
+    "days": null,
+    "text": "2026-10-11"
+   },
+   "contact_name": "최영호",
+   "contact_phone": "042-934-1180",
+   "contact_email": "sales@dyvalve.co.kr",
+   "delivery_terms": "발주 후 7일 이내",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오링",
+     "spec": "P-20 NBR",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 2400,
+     "amount": 14400
+    }
+   ],
+   "subtotal": 14400,
+   "vat": 1440,
+   "total": 15840,
+   "note": "견적 수량 변경 시 단가 재협의",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q041",
+  "file": "Q041.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "DYV-2608-713",
+   "quote_date": "2026-08-06",
+   "validity": {
+    "type": "date",
+    "date": "2026-09-05",
+    "days": null,
+    "text": "2026년 9월 5일"
+   },
+   "contact_name": "최영호",
+   "contact_phone": "042-934-1180",
+   "contact_email": "sales@dyvalve.co.kr",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "월말 마감 익월 말 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "솔레노이드밸브",
+     "spec": "5포트 1/8\" AC220V",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 89200,
+     "amount": 17840000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 35700,
+     "amount": 1071000
+    },
+    {
+     "name": "포토센서",
+     "spec": "미러반사형 5m",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 28000,
+     "amount": 168000
+    },
+    {
+     "name": "오링",
+     "spec": "P-32 FKM",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 1900,
+     "amount": 1900
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "2.2kW 4P 220/380V",
+     "qty": 12,
+     "unit": "대",
+     "unit_price": 435100,
+     "amount": 5221200
+    },
+    {
+     "name": "롤러체인",
+     "spec": "RS50 3m",
+     "qty": 1,
+     "unit": "EA",
+     "unit_price": 69200,
+     "amount": 69200
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "100A 10K FC",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 75000,
+     "amount": 2250000
+    }
+   ],
+   "subtotal": 26621300,
+   "vat": 2662130,
+   "total": 29283430,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q042",
+  "file": "Q042.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "Q20260902-55",
+   "quote_date": "2026-09-02",
+   "validity": {
+    "type": "date",
+    "date": "2026-11-01",
+    "days": null,
+    "text": "2026/11/01"
+   },
+   "contact_name": "최영호",
+   "contact_phone": null,
+   "contact_email": "sales@dyvalve.co.kr",
+   "delivery_terms": "발주 후 2주",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼베어링",
+     "spec": "6002ZZ",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 5000,
+     "amount": 500000
+    }
+   ],
+   "subtotal": 500000,
+   "vat": 50000,
+   "total": 550000,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q043",
+  "file": "Q043.pdf",
+  "quote": {
+   "supplier_name": "한국모터텍 주식회사",
+   "business_number": "220-88-10457",
+   "quote_number": "Q20260920-15",
+   "quote_date": "2026-09-20",
+   "validity": {
+    "type": "date",
+    "date": "2026-10-20",
+    "days": null,
+    "text": "2026년 10월 20일"
+   },
+   "contact_name": "김수진 대리",
+   "contact_phone": "032-818-3302",
+   "contact_email": "sjkim@kmotortech.com",
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "현금 (납품 후 30일)",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "포토센서",
+     "spec": "반사형 2m",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 29500,
+     "amount": 708000
+    },
+    {
+     "name": "유압펌프",
+     "spec": "PV2R1-10",
+     "qty": 1,
+     "unit": "대",
+     "unit_price": 1446800,
+     "amount": 1446800
+    },
+    {
+     "name": "기어드모터",
+     "spec": "0.4kW 1/30",
+     "qty": 2,
+     "unit": "대",
+     "unit_price": 441900,
+     "amount": 883800
+    },
+    {
+     "name": "오일씰",
+     "spec": "TC 35×52×8",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 4100,
+     "amount": 205000
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "50A 10K FC",
+     "qty": 4,
+     "unit": "EA",
+     "unit_price": 206500,
+     "amount": 826000
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø50×200ST",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 99400,
+     "amount": 9940000
+    }
+   ],
+   "subtotal": 14009600,
+   "vat": 1400960,
+   "total": 15410560,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q044",
+  "file": "Q044.pdf",
+  "quote": {
+   "supplier_name": "서울센서시스템",
+   "business_number": "105-87-71123",
+   "quote_number": "Q20261008-95",
+   "quote_date": "2026-10-08",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 60,
+    "text": "견적일로부터 60일"
+   },
+   "contact_name": "박찬호 팀장",
+   "contact_phone": "02-2026-4410",
+   "contact_email": "chpark@seoulsensor.kr",
+   "delivery_terms": "발주 후 10일",
+   "payment_terms": "현금 (납품 후 30일)",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "유압펌프",
+     "spec": "PV2R1-10",
+     "qty": 24,
+     "unit": "대",
+     "unit_price": 2683600,
+     "amount": 64406400
+    },
+    {
+     "name": "유압펌프",
+     "spec": "A10VSO28",
+     "qty": 2,
+     "unit": "대",
+     "unit_price": 2146600,
+     "amount": 4293200
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 3300,
+     "amount": 16500
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "7.5kW 4P 380V",
+     "qty": 30,
+     "unit": "대",
+     "unit_price": 274000,
+     "amount": 8220000
+    }
+   ],
+   "subtotal": 76936100,
+   "vat": 7693610,
+   "total": 84629710,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q045",
+  "file": "Q045.pdf",
+  "quote": {
+   "supplier_name": "대성베어링(주)",
+   "business_number": null,
+   "quote_number": "DSB-2609-464",
+   "quote_date": "2026-09-21",
+   "validity": {
+    "type": "date",
+    "date": "2026-12-20",
+    "days": null,
+    "text": "2026-12-20"
+   },
+   "contact_name": "이민호 과장",
+   "contact_phone": "031-492-7710",
+   "contact_email": "mhlee@dsbearing.co.kr",
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "리니어가이드",
+     "spec": "HGW25CC 1000L",
+     "qty": 6,
+     "unit": "SET",
+     "unit_price": 308200,
+     "amount": 1849200
+    },
+    {
+     "name": "기어드모터",
+     "spec": "0.75kW 1/20",
+     "qty": 6,
+     "unit": "대",
+     "unit_price": 429600,
+     "amount": 2577600
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "3.7kW 4P 380V",
+     "qty": 30,
+     "unit": "대",
+     "unit_price": 591400,
+     "amount": 17742000
+    }
+   ],
+   "subtotal": 22168800,
+   "vat": 2216880,
+   "total": 24385680,
+   "note": "VAT 별도",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q046",
+  "file": "Q046.pdf",
+  "quote": {
+   "supplier_name": "(주)신일유압",
+   "business_number": "503-81-44209",
+   "quote_number": "EST-2026-5701",
+   "quote_date": "2026-08-10",
+   "validity": {
+    "type": "date",
+    "date": "2026-08-24",
+    "days": null,
+    "text": "2026/08/24"
+   },
+   "contact_name": "신재훈 부장",
+   "contact_phone": "053-592-3301",
+   "contact_email": "jhshin@shinilhyd.co.kr",
+   "delivery_terms": "발주 후 4주 (수입품)",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "오일씰",
+     "spec": "TC 25×40×7",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 4800,
+     "amount": 144000
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "2포트 1/4\" DC24V",
+     "qty": 30,
+     "unit": null,
+     "unit_price": 84100,
+     "amount": 2523000
+    },
+    {
+     "name": "기어드모터",
+     "spec": "1.5kW 1/15",
+     "qty": 24,
+     "unit": null,
+     "unit_price": 576400,
+     "amount": 13833600
+    },
+    {
+     "name": "롤러체인",
+     "spec": "RS50 3m",
+     "qty": 100,
+     "unit": null,
+     "unit_price": 50600,
+     "amount": 5060000
+    },
+    {
+     "name": "볼밸브",
+     "spec": "1\" SUS316",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 74700,
+     "amount": 896400
+    },
+    {
+     "name": "오링",
+     "spec": "G-45 NBR",
+     "qty": 12,
+     "unit": null,
+     "unit_price": 1900,
+     "amount": 22800
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø50×200ST",
+     "qty": 2,
+     "unit": null,
+     "unit_price": 800300,
+     "amount": 1600600
+    }
+   ],
+   "subtotal": 24080400,
+   "vat": 2408040,
+   "total": 26488440,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q047",
+  "file": "Q047.pdf",
+  "quote": {
+   "supplier_name": "(주)광명스프링",
+   "business_number": "140-81-70562",
+   "quote_number": "EST-2026-9901",
+   "quote_date": "2026-08-27",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 30,
+    "text": "견적일로부터 30일"
+   },
+   "contact_name": "배수지 주임",
+   "contact_phone": "02-2688-1177",
+   "contact_email": "sjbae@kmspring.co.kr",
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "선금 50% / 잔금 납품 후 30일",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼밸브",
+     "spec": "1/2\" SUS304",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 84500,
+     "amount": 4225000
+    },
+    {
+     "name": "솔레노이드밸브",
+     "spec": "3포트 1/4\" DC24V",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 77400,
+     "amount": 1857600
+    },
+    {
+     "name": "근접센서",
+     "spec": "M18 PNP NO 8mm",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 36600,
+     "amount": 732000
+    },
+    {
+     "name": "포토센서",
+     "spec": "투과형 10m",
+     "qty": 24,
+     "unit": "EA",
+     "unit_price": 42800,
+     "amount": 1027200
+    },
+    {
+     "name": "V벨트",
+     "spec": "A-45",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 9900,
+     "amount": 198000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 17800,
+     "amount": 356000
+    }
+   ],
+   "subtotal": 8395800,
+   "vat": 839580,
+   "total": 9235380,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q048",
+  "file": "Q048.pdf",
+  "quote": {
+   "supplier_name": "서울센서시스템",
+   "business_number": "105-87-71123",
+   "quote_number": "SEO-2608-654",
+   "quote_date": "2026-08-24",
+   "validity": {
+    "type": "relative",
+    "date": null,
+    "days": 90,
+    "text": "견적일로부터 90일"
+   },
+   "contact_name": "박찬호 팀장",
+   "contact_phone": "02-2026-4410",
+   "contact_email": "chpark@seoulsensor.kr",
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "근접센서",
+     "spec": "M8 NPN 2mm",
+     "qty": 200,
+     "unit": "EA",
+     "unit_price": 28600,
+     "amount": 5720000
+    }
+   ],
+   "subtotal": 5720000,
+   "vat": 572000,
+   "total": 6292000,
+   "note": "주문 제작 품목은 취소 불가",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q049",
+  "file": "Q049.pdf",
+  "quote": {
+   "supplier_name": "미래벨트상사",
+   "business_number": null,
+   "quote_number": "Q20261019-98",
+   "quote_date": "2026-10-19",
+   "validity": {
+    "type": "date",
+    "date": "2026-11-18",
+    "days": null,
+    "text": "2026-11-18"
+   },
+   "contact_name": "조미래",
+   "contact_phone": "032-672-1199",
+   "contact_email": null,
+   "delivery_terms": "재고분 즉시 출고",
+   "payment_terms": "월말마감 익월 25일 현금",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "기어드모터",
+     "spec": "0.75kW 1/20",
+     "qty": 10,
+     "unit": null,
+     "unit_price": 748500,
+     "amount": 7485000
+    }
+   ],
+   "subtotal": 7485000,
+   "vat": 748500,
+   "total": 8233500,
+   "note": "포장비 포함",
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ },
+ {
+  "id": "Q050",
+  "file": "Q050.pdf",
+  "quote": {
+   "supplier_name": "(주)동양밸브",
+   "business_number": "305-81-02214",
+   "quote_number": "Q20261007-35",
+   "quote_date": "2026-10-07",
+   "validity": {
+    "type": "date",
+    "date": "2026-11-06",
+    "days": null,
+    "text": "2026년 11월 6일"
+   },
+   "contact_name": "최영호",
+   "contact_phone": "042-934-1180",
+   "contact_email": null,
+   "delivery_terms": "발주 후 3~4주",
+   "payment_terms": "현금결제",
+   "currency": "KRW",
+   "fx_rate": null,
+   "items": [
+    {
+     "name": "볼베어링",
+     "spec": "6205-2Z",
+     "qty": 30,
+     "unit": "EA",
+     "unit_price": 16700,
+     "amount": 501000
+    },
+    {
+     "name": "유압실린더",
+     "spec": "Ø63×300ST",
+     "qty": 100,
+     "unit": "EA",
+     "unit_price": 263900,
+     "amount": 26390000
+    },
+    {
+     "name": "근접센서",
+     "spec": "M12 NPN NO 4mm",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 21500,
+     "amount": 43000
+    },
+    {
+     "name": "롤러체인",
+     "spec": "RS50 3m",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 70200,
+     "amount": 3510000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "7.5kW 4P 380V",
+     "qty": 20,
+     "unit": "대",
+     "unit_price": 323700,
+     "amount": 6474000
+    },
+    {
+     "name": "기어드모터",
+     "spec": "0.75kW 1/20",
+     "qty": 100,
+     "unit": "대",
+     "unit_price": 546800,
+     "amount": 54680000
+    },
+    {
+     "name": "게이트밸브",
+     "spec": "50A 10K FC",
+     "qty": 20,
+     "unit": "EA",
+     "unit_price": 119100,
+     "amount": 2382000
+    },
+    {
+     "name": "압축스프링",
+     "spec": "Ø2.0×20×80",
+     "qty": 50,
+     "unit": "EA",
+     "unit_price": 4200,
+     "amount": 210000
+    },
+    {
+     "name": "3상 유도전동기",
+     "spec": "2.2kW 4P 220/380V",
+     "qty": 10,
+     "unit": "대",
+     "unit_price": 1065500,
+     "amount": 10655000
+    },
+    {
+     "name": "오일씰",
+     "spec": "TC 35×52×8",
+     "qty": 12,
+     "unit": "EA",
+     "unit_price": 5100,
+     "amount": 61200
+    },
+    {
+     "name": "에어실린더",
+     "spec": "Ø50×200ST",
+     "qty": 6,
+     "unit": "EA",
+     "unit_price": 163700,
+     "amount": 982200
+    },
+    {
+     "name": "테이퍼롤러베어링",
+     "spec": "32210",
+     "qty": 5,
+     "unit": "EA",
+     "unit_price": 33000,
+     "amount": 165000
+    },
+    {
+     "name": "스프로킷",
+     "spec": "RS50 20T",
+     "qty": 2,
+     "unit": "EA",
+     "unit_price": 51600,
+     "amount": 103200
+    },
+    {
+     "name": "오링",
+     "spec": "P-32 FKM",
+     "qty": 10,
+     "unit": "EA",
+     "unit_price": 1600,
+     "amount": 16000
+    }
+   ],
+   "subtotal": 106172600,
+   "vat": 10617260,
+   "total": 116789860,
+   "note": null,
+   "low_confidence_fields": []
+  },
+  "warnings": [],
+  "model": "claude-code-manual"
+ }
+]
