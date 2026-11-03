@@ -9,7 +9,8 @@
     "lint": "eslint",
     "extract": "node --env-file-if-exists=.env.local --import tsx scripts/extract-batch.ts",
     "eval": "node --import tsx scripts/eval.ts",
-    "sync-data": "node --import tsx scripts/sync-data.ts"
+    "sync-data": "node --import tsx scripts/sync-data.ts",
+    "data-profile": "node --import tsx scripts/profile.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.137.0",

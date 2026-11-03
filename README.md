@@ -47,9 +47,10 @@ cd app
 pnpm extract              # data/samples/*.pdf → output/extracted.csv (+ 건별 JSON, 붙여넣기 텍스트)
 pnpm extract --sheets     # 구글 시트용 환율 수식 컬럼 포함
 pnpm eval                 # 추출 결과 vs data/ground-truth 정확도 → output/eval-report.md
+pnpm data-profile <파일>   # 고객 데이터(CSV/JSON) 품질 진단 → output/profile/<이름>.md
 ```
 
-Claude Code 안에서는 `/extract-quotes`로 실행과 결과 요약을 한 번에 할 수 있다.
+Claude Code 안에서는 `/extract-quotes`로 실행과 결과 요약을, `/data-profile <파일>`로 데이터 진단과 고객 질문 목록 작성을 한 번에 할 수 있다.
 
 ## 검토 UI
 
